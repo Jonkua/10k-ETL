@@ -1,0 +1,1120 @@
+ticker,processed
+AMD,False
+INTC,False
+TXN,False
+1ST,download_failed,2025-07-07T22:23:17.584633,
+AB&T,download_failed,2025-07-07T22:23:18.273820,
+AF,download_failed,2025-07-07T22:23:18.941476,
+AJS,download_failed,2025-07-07T22:23:20.274803,
+AMEGY,download_failed,2025-07-07T22:23:21.296148,
+AMES,download_failed,2025-07-07T22:23:21.967197,
+ANB,download_failed,2025-07-07T22:23:22.627330,
+ARROW,download_failed,2025-07-07T22:23:23.264795,
+BANC,download_failed,2025-07-07T22:23:35.375581,
+BANK,download_failed,2025-07-07T22:23:40.096113,
+BATH,download_failed,2025-07-07T22:23:40.765583,
+BAY,download_failed,2025-07-07T22:23:52.104261,
+BB&T,download_failed,2025-07-07T22:23:52.761341,
+BBVA,download_failed,2025-07-07T22:23:53.955351,
+BEACH,download_failed,2025-07-07T22:23:54.615566,
+BNC,download_failed,2025-07-07T22:23:55.277388,
+BOE,download_failed,2025-07-07T22:23:56.228867,
+BOK,download_failed,2025-07-07T22:23:56.923928,
+BROAD,download_failed,2025-07-07T22:23:57.676709,
+CB&T,download_failed,2025-07-07T22:23:58.338355,
+CCBT,download_failed,2025-07-07T22:23:58.985211,
+CF,download_failed,2025-07-07T22:24:10.024329,
+CHAIN,download_failed,2025-07-07T22:24:10.711700,
+CHASE,download_failed,2025-07-07T22:24:11.369928,
+CIT,download_failed,2025-07-07T22:24:12.020554,
+CITI,download_failed,2025-07-07T22:24:12.703227,
+CITY,download_failed,2025-07-07T22:24:14.033143,
+CN,download_failed,2025-07-07T22:24:14.681998,
+CNB,download_failed,2025-07-07T22:24:29.317629,
+CNBC,download_failed,2025-07-07T22:24:30.043637,
+CNBT,download_failed,2025-07-07T22:24:30.700730,
+COAST,download_failed,2025-07-07T22:24:31.354354,
+COBIZ,download_failed,2025-07-07T22:24:32.004740,
+CORUS,download_failed,2025-07-07T22:24:32.670708,
+CU,download_failed,2025-07-07T22:24:43.347672,
+0001168230,download_failed,2025-07-11T00:23:43.925145,
+0001435161,error,2025-07-11T00:23:52.364546,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000356809,error,2025-07-11T00:24:00.520850,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001064025,download_failed,2025-07-11T00:24:01.626501,
+0001144515,error,2025-07-11T00:24:09.860448,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001576336,error,2025-07-11T00:24:15.343693,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000903419,error,2025-07-11T00:24:31.364382,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000703970,error,2025-07-11T00:24:37.902565,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036510,error,2025-07-11T00:24:44.676342,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001093414,error,2025-07-11T00:24:46.833830,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001140472,error,2025-07-11T00:25:01.835409,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001275140,download_failed,2025-07-11T00:25:03.015339,
+0001181001,error,2025-07-11T00:25:21.438634,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000796317,error,2025-07-11T00:25:42.216845,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001259339,download_failed,2025-07-11T00:25:43.463174,
+0000702904,error,2025-07-11T00:25:47.681300,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000714756,error,2025-07-11T00:26:23.247956,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001027258,error,2025-07-11T00:26:34.168124,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001213219,download_failed,2025-07-11T00:26:35.380560,
+0001163747,download_failed,2025-07-11T00:26:36.547341,
+0000741516,error,2025-07-11T00:27:17.685594,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000824906,error,2025-07-11T00:27:21.461631,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000707605,error,2025-07-11T00:27:58.664158,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001132651,error,2025-07-11T00:28:46.506281,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000760992,error,2025-07-11T00:28:51.454264,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001041429,error,2025-07-11T00:29:04.185657,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000717538,error,2025-07-11T00:29:50.070736,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000840016,error,2025-07-11T00:29:52.267538,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001734342,error,2025-07-11T00:30:15.696584,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001169770,error,2025-07-11T00:31:12.235706,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036090,error,2025-07-11T00:31:27.305079,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000760498,error,2025-07-11T00:32:04.257442,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000868572,error,2025-07-11T00:32:08.546137,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001109525,error,2025-07-11T00:32:30.845916,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000783739,error,2025-07-11T00:33:01.823619,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000070858,download_failed,2025-07-11T00:33:03.074846,
+0001082368,error,2025-07-11T00:33:14.653145,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000071322,download_failed,2025-07-11T00:33:15.887112,
+0001088801,download_failed,2025-07-11T00:33:16.965183,
+0001088804,download_failed,2025-07-11T00:33:18.050812,
+0001067092,error,2025-07-11T00:33:42.313679,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000039394,error,2025-07-11T00:33:44.890500,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000009672,error,2025-07-11T00:33:50.678055,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036672,error,2025-07-11T00:33:56.754605,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000824719,error,2025-07-11T00:33:59.237043,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000941622,error,2025-07-11T00:34:02.525038,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000851105,error,2025-07-11T00:34:06.410700,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000709335,error,2025-07-11T00:34:11.129924,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001046406,download_failed,2025-07-11T00:34:12.265332,
+0001089787,error,2025-07-11T00:34:19.691921,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001143881,download_failed,2025-07-11T00:34:30.967557,
+0001409775,error,2025-07-11T00:35:17.617305,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000949228,error,2025-07-11T00:35:22.251226,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000726294,error,2025-07-11T00:35:33.794724,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000742275,error,2025-07-11T00:35:48.449126,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000757546,error,2025-07-11T00:35:50.635053,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001099569,download_failed,2025-07-11T00:35:51.706952,
+0001210227,error,2025-07-11T00:36:29.843773,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000945434,error,2025-07-11T00:36:42.046558,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000040454,error,2025-07-11T00:36:45.012226,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000230072,download_failed,2025-07-11T00:36:56.144414,
+0001109848,error,2025-07-11T00:37:04.557728,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000875357,error,2025-07-11T00:37:27.250114,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001172229,error,2025-07-11T00:37:38.381675,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000846616,error,2025-07-11T00:37:54.218862,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000014060,error,2025-07-11T00:37:59.710757,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000707604,error,2025-07-11T00:38:15.026899,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000703800,error,2025-07-11T00:38:19.043994,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001108144,download_failed,2025-07-11T00:38:20.154583,
+0001123841,error,2025-07-11T00:38:24.518960,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001295401,error,2025-07-11T00:39:25.327843,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001746109,error,2025-07-11T00:39:42.885105,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001365997,error,2025-07-11T00:40:11.687107,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001393534,error,2025-07-11T00:40:15.696867,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001354835,error,2025-07-11T00:40:18.765639,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001304740,error,2025-07-11T00:40:46.267533,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001964333,error,2025-07-11T00:40:50.248193,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000742054,error,2025-07-11T00:41:12.546769,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000318779,error,2025-07-11T00:41:14.825350,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001094893,error,2025-07-11T00:41:17.717337,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000803016,error,2025-07-11T00:41:59.825199,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001257580,download_failed,2025-07-11T00:42:00.987486,
+0000750686,error,2025-07-11T00:42:28.497927,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000759458,error,2025-07-11T00:42:50.581471,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001136303,error,2025-07-11T00:43:07.843433,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000837858,error,2025-07-11T00:43:12.954111,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000927628,error,2025-07-11T00:43:22.651981,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000840264,error,2025-07-11T00:43:41.580225,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000874481,error,2025-07-11T00:43:44.248065,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000888184,error,2025-07-11T00:43:46.266799,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001060523,error,2025-07-11T00:44:42.286391,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000753745,error,2025-07-11T00:44:44.568904,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000915277,error,2025-07-11T00:44:47.290283,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001157648,download_failed,2025-07-11T00:44:48.400670,
+0001094059,download_failed,2025-07-11T00:44:49.507476,
+0001074972,error,2025-07-11T00:44:54.942471,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001099932,error,2025-07-11T00:45:09.256853,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000276235,error,2025-07-11T00:45:14.272291,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001172353,error,2025-07-11T00:45:24.388740,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001019650,error,2025-07-11T00:45:50.631028,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000785813,error,2025-07-11T00:46:06.674990,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000820414,error,2025-07-11T00:46:10.040139,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000357105,error,2025-07-11T00:46:17.191101,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001492654,download_failed,2025-07-11T00:46:18.312761,
+0001070680,error,2025-07-11T00:46:45.159507,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001392272,download_failed,2025-07-11T00:46:46.375784,
+0000819692,error,2025-07-11T00:47:08.471523,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000019489,error,2025-07-11T00:47:11.171902,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001077535,download_failed,2025-07-11T00:47:12.267353,
+0000847538,error,2025-07-11T00:47:15.007338,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001132515,error,2025-07-11T00:47:30.449304,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001248124,error,2025-07-11T00:47:47.202751,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001171825,error,2025-07-11T00:48:36.224562,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000715991,error,2025-07-11T00:48:38.331368,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000020405,error,2025-07-11T00:48:56.970321,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000831001,download_failed,2025-07-11T00:48:58.270515,
+0001273805,download_failed,2025-07-11T00:48:59.422199,
+0001049489,download_failed,2025-07-11T00:49:00.545053,
+0000764156,error,2025-07-11T00:49:22.767456,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000702163,error,2025-07-11T00:49:25.415136,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001073475,error,2025-07-11T00:50:06.029311,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000351077,error,2025-07-11T00:50:31.118985,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000852616,download_failed,2025-07-11T00:50:32.272405,
+0000726854,error,2025-07-11T00:51:05.869508,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000201461,error,2025-07-11T00:51:43.745146,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001068366,download_failed,2025-07-11T00:51:44.981809,
+0001144514,download_failed,2025-07-11T00:51:46.125181,
+0001014273,download_failed,2025-07-11T00:51:47.340961,
+0000839928,error,2025-07-11T00:51:55.278761,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001162638,error,2025-07-11T00:52:01.825130,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000779125,error,2025-07-11T00:52:29.321752,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000764581,error,2025-07-11T00:52:53.129724,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000852618,error,2025-07-11T00:52:59.688722,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001345622,error,2025-07-11T00:53:02.882477,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000912566,download_failed,2025-07-11T00:53:04.029577,
+0001050078,download_failed,2025-07-11T00:53:05.158818,
+0001058995,error,2025-07-11T00:53:08.544503,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001141575,download_failed,2025-07-11T00:53:09.716660,
+0001093897,error,2025-07-11T00:53:23.265990,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001028734,error,2025-07-11T00:54:09.230548,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001115191,download_failed,2025-07-11T00:54:20.412375,
+0000028412,error,2025-07-11T00:54:37.179689,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000715096,error,2025-07-11T00:55:03.305759,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000773319,error,2025-07-11T00:55:07.606776,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001098813,error,2025-07-11T00:55:14.514373,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000726738,error,2025-07-11T00:55:17.948204,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000835012,error,2025-07-11T00:55:31.680122,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000718413,error,2025-07-11T00:56:00.811659,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001089503,error,2025-07-11T00:56:18.033627,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000742170,error,2025-07-11T00:56:24.778292,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000867241,download_failed,2025-07-11T00:56:35.939864,
+0001180050,download_failed,2025-07-11T00:56:37.106157,
+0000714710,error,2025-07-11T00:56:52.589618,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001273555,download_failed,2025-07-11T00:56:53.751553,
+0001074369,error,2025-07-11T00:56:57.452769,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000832847,error,2025-07-11T00:57:31.768518,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001174786,download_failed,2025-07-11T00:57:32.951631,
+0000872401,error,2025-07-11T00:57:35.506265,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000723188,error,2025-07-11T00:58:04.287281,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001176266,download_failed,2025-07-11T00:58:05.483424,
+0000760993,download_failed,2025-07-11T00:58:16.643641,
+0000855386,error,2025-07-11T00:58:18.750312,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001124184,download_failed,2025-07-11T00:58:19.897135,
+0001020347,error,2025-07-11T00:58:29.627110,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000018568,error,2025-07-11T00:58:41.014009,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000823246,error,2025-07-11T00:58:44.153900,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001006830,error,2025-07-11T00:59:02.711736,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000024058,error,2025-07-11T00:59:07.380004,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000069952,error,2025-07-11T00:59:11.549329,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001079385,download_failed,2025-07-11T00:59:12.620287,
+0001087455,error,2025-07-11T00:59:26.872979,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000051939,error,2025-07-11T00:59:54.566546,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000885694,error,2025-07-11T00:59:59.952649,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001094061,download_failed,2025-07-11T01:00:01.073923,
+0000101880,error,2025-07-11T01:00:06.570845,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000356050,error,2025-07-11T01:00:12.334375,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001543643,error,2025-07-11T01:00:34.411106,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000039263,error,2025-07-11T01:01:09.665970,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000757790,error,2025-07-11T01:01:12.547178,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001614184,error,2025-07-11T01:01:33.209171,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001795815,error,2025-07-11T01:01:46.272956,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001363569,error,2025-07-11T01:01:49.425549,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001334872,error,2025-07-11T01:01:54.960207,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001419536,error,2025-07-11T01:02:07.404529,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001479750,error,2025-07-11T01:02:37.019348,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001829576,error,2025-07-11T01:02:42.378267,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001102266,error,2025-07-11T01:03:21.946648,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001365794,error,2025-07-11T01:03:37.237044,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001300335,download_failed,2025-07-11T01:03:39.469051,
+0001437213,error,2025-07-11T01:03:52.793694,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001317019,error,2025-07-11T01:04:08.897272,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001304366,error,2025-07-11T01:04:19.449720,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000764811,error,2025-07-11T01:05:29.011697,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001295879,error,2025-07-11T01:05:33.520304,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001448324,error,2025-07-11T01:05:39.092816,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001267970,download_failed,2025-07-11T01:05:40.246625,
+0000763827,download_failed,2025-07-11T01:05:41.473716,
+0000706343,error,2025-07-11T01:05:44.043930,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000028209,error,2025-07-11T01:05:49.244989,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000713671,error,2025-07-11T01:06:18.331038,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000846617,error,2025-07-11T01:06:55.108113,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001313868,download_failed,2025-07-11T01:06:56.316850,
+0001101146,error,2025-07-11T01:06:59.915023,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001050725,download_failed,2025-07-11T01:07:01.154650,
+0000818633,error,2025-07-11T01:07:07.857339,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000858800,error,2025-07-11T01:07:44.366675,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000810830,error,2025-07-11T01:07:49.509806,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001437479,error,2025-07-11T01:08:25.816892,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001129492,download_failed,2025-07-11T01:08:26.967826,
+0000842518,error,2025-07-11T01:09:20.835781,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000351521,error,2025-07-11T01:09:34.232337,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000930199,download_failed,2025-07-11T01:09:35.427395,
+0001088514,error,2025-07-11T01:09:44.415170,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001319327,error,2025-07-11T01:10:00.623062,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000034125,error,2025-07-11T01:10:07.031964,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001085913,error,2025-07-11T01:10:55.126049,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000713095,error,2025-07-11T01:11:31.056200,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700850,error,2025-07-11T01:11:33.341335,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700946,download_failed,2025-07-11T01:11:34.576818,
+0001143158,download_failed,2025-07-11T01:11:35.819131,
+0001476651,error,2025-07-11T01:12:05.547999,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001360581,error,2025-07-11T01:12:12.392744,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001098151,error,2025-07-11T01:13:13.526845,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000862831,error,2025-07-11T01:13:53.637433,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000702508,error,2025-07-11T01:13:56.356000,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036068,error,2025-07-11T01:14:01.169734,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000947559,error,2025-07-11T01:14:29.428205,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000310979,error,2025-07-11T01:14:38.682133,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001075705,download_failed,2025-07-11T01:14:39.856204,
+0001074560,download_failed,2025-07-11T01:14:41.184817,
+0001124676,error,2025-07-11T01:14:59.665695,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000717306,error,2025-07-11T01:15:22.380957,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000744126,error,2025-07-11T01:15:38.900260,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036161,error,2025-07-11T01:15:41.782378,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000070040,error,2025-07-11T01:15:46.566175,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000826328,download_failed,2025-07-11T01:15:47.746139,
+0001013047,error,2025-07-11T01:15:53.840446,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001073932,download_failed,2025-07-11T01:15:55.002743,
+0000714719,error,2025-07-11T01:16:00.370308,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000768532,error,2025-07-11T01:16:04.575755,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001141045,download_failed,2025-07-11T01:16:15.759430,
+0000036204,error,2025-07-11T01:16:21.767375,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000316769,error,2025-07-11T01:16:25.594239,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000712537,error,2025-07-11T01:17:14.682760,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000763293,error,2025-07-11T01:17:23.085277,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000278138,error,2025-07-11T01:17:26.400280,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001100553,error,2025-07-11T01:17:28.625989,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000823870,error,2025-07-11T01:17:31.321447,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000708955,error,2025-07-11T01:17:41.413459,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036966,error,2025-07-11T01:17:53.873512,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000745140,download_failed,2025-07-11T01:18:05.029106,
+0000105982,error,2025-07-11T01:18:08.417935,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000885979,download_failed,2025-07-11T01:18:09.490597,
+0000756899,error,2025-07-11T01:18:12.161611,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000741562,error,2025-07-11T01:18:18.560222,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000840886,error,2025-07-11T01:18:28.034575,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000743397,error,2025-07-11T01:18:50.036290,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000804128,error,2025-07-11T01:18:52.882412,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000712534,error,2025-07-11T01:18:59.783647,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000702325,error,2025-07-11T01:19:32.783534,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001266099,download_failed,2025-07-11T01:19:44.115319,
+0000351825,error,2025-07-11T01:19:47.068784,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000788783,error,2025-07-11T01:19:52.650630,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001095274,error,2025-07-11T01:20:05.986333,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001067077,error,2025-07-11T01:20:18.357475,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000808364,error,2025-07-11T01:20:20.407414,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000814178,error,2025-07-11T01:20:28.302127,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700694,error,2025-07-11T01:20:31.344376,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036725,error,2025-07-11T01:20:41.399931,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001075602,error,2025-07-11T01:20:46.124826,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001051741,error,2025-07-11T01:21:43.864929,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036703,error,2025-07-11T01:21:48.922224,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000740663,error,2025-07-11T01:22:15.424438,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000855645,error,2025-07-11T01:22:18.339791,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000779784,error,2025-07-11T01:22:21.508791,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000354706,error,2025-07-11T01:22:59.925845,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001172102,error,2025-07-11T01:23:24.430275,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001138817,error,2025-07-11T01:24:17.467291,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001156366,download_failed,2025-07-11T01:24:18.727768,
+0000820379,error,2025-07-11T01:24:21.554018,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000763907,error,2025-07-11T01:25:06.448994,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001137679,download_failed,2025-07-11T01:25:07.697635,
+0000740876,error,2025-07-11T01:25:12.543251,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000037076,error,2025-07-11T01:25:18.158861,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001011588,download_failed,2025-07-11T01:25:19.806044,
+0000074431,download_failed,2025-07-11T01:25:20.986357,
+0000354869,error,2025-07-11T01:26:08.706017,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001709442,error,2025-07-11T01:26:16.956742,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001243496,error,2025-07-11T01:26:24.236594,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001027831,download_failed,2025-07-11T01:26:25.524914,
+0001027832,download_failed,2025-07-11T01:26:36.733774,
+0001027833,download_failed,2025-07-11T01:26:37.893861,
+0001027834,download_failed,2025-07-11T01:26:39.120026,
+0001027835,download_failed,2025-07-11T01:26:40.286357,
+0000050341,error,2025-07-11T01:26:56.434172,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001058802,error,2025-07-11T01:27:04.953805,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001135374,download_failed,2025-07-11T01:27:06.073691,
+0001009162,download_failed,2025-07-11T01:27:07.229993,
+0000757262,download_failed,2025-07-11T01:27:08.636781,
+0001010961,error,2025-07-11T01:27:19.285480,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000037808,error,2025-07-11T01:28:04.952509,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000820222,error,2025-07-11T01:28:15.692842,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000742679,error,2025-07-11T01:28:26.637919,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000745087,error,2025-07-11T01:28:30.579724,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001275867,download_failed,2025-07-11T01:28:31.792309,
+0000943119,error,2025-07-11T01:29:03.426310,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000868573,download_failed,2025-07-11T01:29:04.686417,
+0001035976,error,2025-07-11T01:29:28.361217,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000357269,error,2025-07-11T01:29:32.806105,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000038475,error,2025-07-11T01:29:36.417476,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001162245,error,2025-07-11T01:29:50.920930,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000875986,error,2025-07-11T01:29:54.035542,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000846903,error,2025-07-11T01:30:06.010466,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000813964,error,2025-07-11T01:30:09.073589,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001059420,error,2025-07-11T01:30:13.717302,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000850626,error,2025-07-11T01:30:24.287357,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700564,error,2025-07-11T01:31:12.607941,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001105936,download_failed,2025-07-11T01:31:14.042817,
+0001057437,error,2025-07-11T01:31:17.660081,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000765207,error,2025-07-11T01:32:17.490984,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001283582,error,2025-07-11T01:32:40.815515,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001128227,error,2025-07-11T01:32:54.850686,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001445059,download_failed,2025-07-11T01:32:56.028121,
+0001156953,error,2025-07-11T01:33:03.917971,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001034981,download_failed,2025-07-11T01:33:05.138924,
+0001132242,download_failed,2025-07-11T01:33:07.347743,
+0001136645,download_failed,2025-07-11T01:33:08.555056,
+0001015610,error,2025-07-11T01:33:32.841990,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000828749,download_failed,2025-07-11T01:33:34.142187,
+0001013044,error,2025-07-11T01:33:37.974741,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000763850,error,2025-07-11T01:33:49.982429,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001088381,error,2025-07-11T01:34:06.654368,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000775473,error,2025-07-11T01:34:35.249703,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001145547,error,2025-07-11T01:34:53.026993,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001058867,error,2025-07-11T01:35:44.138186,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001606363,error,2025-07-11T01:36:08.151300,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001109242,error,2025-07-11T01:37:23.240269,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000702902,error,2025-07-11T01:37:46.976483,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001107160,error,2025-07-11T01:38:02.529334,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000805304,error,2025-07-11T01:38:06.826521,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000893847,error,2025-07-11T01:38:49.572524,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001078676,download_failed,2025-07-11T01:38:50.795856,
+0001073182,download_failed,2025-07-11T01:38:51.949354,
+0000878355,error,2025-07-11T01:39:01.079345,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000843519,download_failed,2025-07-11T01:39:02.199800,
+0001126679,error,2025-07-11T01:39:06.529902,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000047288,error,2025-07-11T01:39:18.743107,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001161639,download_failed,2025-07-11T01:39:19.952290,
+0000355818,error,2025-07-11T01:39:22.218429,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001128361,error,2025-07-11T01:40:08.215351,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000083246,download_failed,2025-07-11T01:40:19.569948,
+0000049196,error,2025-07-11T01:40:26.347819,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000861617,download_failed,2025-07-11T01:40:27.535541,
+0001433540,error,2025-07-11T01:40:29.987144,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001302369,download_failed,2025-07-11T01:40:31.109246,
+0001013274,download_failed,2025-07-11T01:40:32.227248,
+0000318870,error,2025-07-11T01:40:44.241583,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000846382,error,2025-07-11T01:40:47.433199,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001103764,error,2025-07-11T01:40:51.974420,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000755933,error,2025-07-11T01:41:01.405535,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000927807,error,2025-07-11T01:41:42.140755,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001089857,error,2025-07-11T01:41:46.388053,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001094484,download_failed,2025-07-11T01:41:47.545311,
+0001311828,error,2025-07-11T01:42:09.041778,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001357528,error,2025-07-11T01:42:14.123644,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001158197,download_failed,2025-07-11T01:42:15.244182,
+0000874495,error,2025-07-11T01:42:39.835443,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000019617,download_failed,2025-07-11T01:42:41.341750,
+0001173376,error,2025-07-11T01:42:43.695034,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036208,download_failed,2025-07-11T01:42:44.841305,
+0000091576,error,2025-07-11T01:43:44.063147,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000717809,error,2025-07-11T01:43:49.300259,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000715366,error,2025-07-11T01:43:52.251607,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001060455,error,2025-07-11T01:44:07.242403,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000723878,error,2025-07-11T01:44:11.396628,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001141688,error,2025-07-11T01:44:54.444970,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000842898,download_failed,2025-07-11T01:44:55.686213,
+0001074902,error,2025-07-11T01:45:52.728563,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001057570,error,2025-07-11T01:45:55.076969,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000737287,error,2025-07-11T01:46:02.160719,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000316909,error,2025-07-11T01:46:14.277175,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001036757,download_failed,2025-07-11T01:46:15.480763,
+0001358356,error,2025-07-11T01:47:05.261453,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001047125,error,2025-07-11T01:47:13.530230,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001143848,error,2025-07-11T01:47:29.462857,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001294206,error,2025-07-11T01:47:32.666692,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000919162,download_failed,2025-07-11T01:47:33.784587,
+0001141106,download_failed,2025-07-11T01:47:34.925404,
+0000036094,error,2025-07-11T01:47:42.257995,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000882859,error,2025-07-11T01:47:45.790066,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000839688,error,2025-07-11T01:47:58.065450,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001164290,download_failed,2025-07-11T01:47:59.212867,
+0001094742,error,2025-07-11T01:48:11.788707,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001047136,download_failed,2025-07-11T01:48:12.910743,
+0000062741,error,2025-07-11T01:48:27.864309,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000742246,error,2025-07-11T01:48:31.711039,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001139812,error,2025-07-11T01:49:33.056479,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000870517,error,2025-07-11T01:49:58.484978,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001118237,error,2025-07-11T01:50:32.665449,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000902789,download_failed,2025-07-11T01:50:33.825655,
+0000064782,error,2025-07-11T01:50:50.331323,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000317598,download_failed,2025-07-11T01:50:51.429999,
+0000064907,error,2025-07-11T01:51:01.653116,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000707817,error,2025-07-11T01:51:06.216288,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001024724,error,2025-07-11T01:51:09.390494,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000723916,error,2025-07-11T01:51:14.628053,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000873398,error,2025-07-11T01:51:17.439396,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000065660,error,2025-07-11T01:51:21.132683,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000357066,error,2025-07-11T01:51:24.447627,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000914138,error,2025-07-11T01:52:10.573776,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000793548,error,2025-07-11T01:52:23.435844,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000745981,error,2025-07-11T01:53:08.732361,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001051379,error,2025-07-11T01:53:40.197823,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001158678,error,2025-07-11T01:53:51.137252,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000889553,download_failed,2025-07-11T01:53:52.303139,
+0001169483,download_failed,2025-07-11T01:53:53.392851,
+0001129920,error,2025-07-11T01:54:11.295876,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001335730,download_failed,2025-07-11T01:54:12.551455,
+0000891284,error,2025-07-11T01:54:17.651591,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001258548,download_failed,2025-07-11T01:54:18.765888,
+0001169769,error,2025-07-11T01:54:52.392778,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000908962,download_failed,2025-07-11T01:54:53.531788,
+0001200323,download_failed,2025-07-11T01:54:54.629054,
+0000898018,error,2025-07-11T01:55:04.228223,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001177070,error,2025-07-11T01:55:17.265883,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001276939,download_failed,2025-07-11T01:55:18.443324,
+0001135253,error,2025-07-11T01:55:21.186593,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001011659,error,2025-07-11T01:57:05.164194,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001060303,download_failed,2025-07-11T01:57:06.366415,
+0001074458,error,2025-07-11T01:57:17.495900,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001387632,error,2025-07-11T01:57:42.249002,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001289701,error,2025-07-11T01:58:08.427805,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001600125,error,2025-07-11T01:58:35.277915,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001750735,error,2025-07-11T01:58:50.545958,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700699,error,2025-07-11T01:58:53.162010,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001056669,download_failed,2025-07-11T01:58:54.270961,
+0000833029,download_failed,2025-07-11T01:58:55.389499,
+0000705356,error,2025-07-11T01:58:59.822610,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000790362,error,2025-07-11T01:59:21.818841,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000069834,error,2025-07-11T01:59:27.207809,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000912382,error,2025-07-11T01:59:56.405111,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000796534,error,2025-07-11T02:00:50.072577,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000069968,error,2025-07-11T02:00:55.597645,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001116623,download_failed,2025-07-11T02:00:56.717604,
+0000069970,error,2025-07-11T02:01:10.373312,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001163335,download_failed,2025-07-11T02:01:11.586162,
+0000101844,error,2025-07-11T02:01:24.055605,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700733,error,2025-07-11T02:02:12.509969,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001026220,download_failed,2025-07-11T02:02:13.706633,
+0001026219,download_failed,2025-07-11T02:02:14.871643,
+0000790359,error,2025-07-11T02:02:57.059675,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000797838,error,2025-07-11T02:03:10.197689,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001180933,download_failed,2025-07-11T02:03:11.440672,
+0001075945,download_failed,2025-07-11T02:03:12.606540,
+0001264755,error,2025-07-11T02:03:44.576386,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001157282,error,2025-07-11T02:03:47.008980,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001003084,download_failed,2025-07-11T02:03:48.196292,
+0001174850,error,2025-07-11T02:04:04.491540,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001135554,download_failed,2025-07-11T02:04:05.785227,
+0000754440,download_failed,2025-07-11T02:04:07.031865,
+0001102595,error,2025-07-11T02:04:23.308160,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000746253,error,2025-07-11T02:04:31.797815,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001041753,error,2025-07-11T02:04:43.971879,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000893467,error,2025-07-11T02:04:59.022386,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001475841,error,2025-07-11T02:05:56.542421,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001609951,error,2025-07-11T02:06:13.243830,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001587987,error,2025-07-11T02:12:03.869237,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001471265,error,2025-07-11T02:13:06.106323,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001004702,error,2025-07-11T02:13:26.081705,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001096654,error,2025-07-11T02:13:36.616218,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001132338,download_failed,2025-07-11T02:13:47.893711,
+0000707179,error,2025-07-11T02:13:52.596189,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000740971,error,2025-07-11T02:14:30.921452,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000705671,error,2025-07-11T02:14:44.752068,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000801443,error,2025-07-11T02:14:48.539258,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001216128,error,2025-07-11T02:15:00.435320,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001398006,error,2025-07-11T02:15:14.339640,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001362599,error,2025-07-11T02:15:18.887754,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001288855,error,2025-07-11T02:15:52.044018,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001084717,error,2025-07-11T02:16:39.334315,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001109546,error,2025-07-11T02:17:37.530748,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001133862,error,2025-07-11T02:17:44.108543,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001102112,error,2025-07-11T02:18:24.147624,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000805676,error,2025-07-11T02:18:41.422412,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001163345,error,2025-07-11T02:18:54.690188,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000907471,error,2025-07-11T02:19:34.997196,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001098146,error,2025-07-11T02:20:19.669084,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001037652,error,2025-07-11T02:20:33.017599,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000768868,error,2025-07-11T02:20:36.127783,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000790988,error,2025-07-11T02:20:47.987117,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001060244,error,2025-07-11T02:21:12.832279,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000885542,error,2025-07-11T02:21:27.206768,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001100983,error,2025-07-11T02:21:40.741362,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001056943,error,2025-07-11T02:22:20.252456,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000718077,error,2025-07-11T02:22:24.661798,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001104901,error,2025-07-11T02:22:30.149166,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000827085,error,2025-07-11T02:22:33.752188,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001031233,error,2025-07-11T02:22:41.629427,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001115055,error,2025-07-11T02:23:12.399093,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000760731,error,2025-07-11T02:23:18.335584,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001113026,error,2025-07-11T02:23:36.774442,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001008932,download_failed,2025-07-11T02:23:37.901395,
+0000713676,error,2025-07-11T02:23:56.805718,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000825534,error,2025-07-11T02:23:59.687891,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000797541,error,2025-07-11T02:24:03.845731,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000854399,error,2025-07-11T02:24:13.347354,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000776848,error,2025-07-11T02:24:18.329246,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001102287,error,2025-07-11T02:24:58.455495,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000707855,error,2025-07-11T02:25:14.235968,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001035713,error,2025-07-11T02:25:22.797902,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001235091,error,2025-07-11T02:25:40.564314,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001089624,error,2025-07-11T02:25:42.564613,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001302502,error,2025-07-11T02:25:45.980114,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001358462,download_failed,2025-07-11T02:25:47.113296,
+0001630856,error,2025-07-11T02:25:54.740172,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000811434,error,2025-07-11T02:25:57.889395,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000861461,error,2025-07-11T02:26:08.264626,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000840007,error,2025-07-11T02:26:16.310692,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000846979,error,2025-07-11T02:26:19.654278,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001113671,download_failed,2025-07-11T02:26:20.768947,
+0001135513,download_failed,2025-07-11T02:26:31.888402,
+0000036032,error,2025-07-11T02:26:40.659890,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001281761,error,2025-07-11T02:27:13.782584,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000202995,error,2025-07-11T02:27:21.945952,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001065002,error,2025-07-11T02:27:30.426039,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001076298,error,2025-07-11T02:27:33.215064,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001134636,download_failed,2025-07-11T02:27:34.314716,
+0000350847,error,2025-07-11T02:27:50.538337,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001067315,download_failed,2025-07-11T02:27:51.616339,
+0001160861,download_failed,2025-07-11T02:27:52.740558,
+0001104681,download_failed,2025-07-11T02:28:03.927319,
+0001397771,error,2025-07-11T02:28:21.975691,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001452899,error,2025-07-11T02:28:34.703118,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001590799,error,2025-07-11T02:28:54.101398,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001311131,error,2025-07-11T02:29:06.482544,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000824410,error,2025-07-11T02:29:47.077709,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001099958,error,2025-07-11T02:30:10.146541,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000860519,error,2025-07-11T02:30:25.872661,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001168643,download_failed,2025-07-11T02:30:27.023510,
+0000803112,error,2025-07-11T02:30:43.106942,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001094635,error,2025-07-11T02:31:24.298497,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001110511,download_failed,2025-07-11T02:31:26.497093,
+0000868271,error,2025-07-11T02:32:05.495155,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000823393,error,2025-07-11T02:32:09.163985,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001263043,download_failed,2025-07-11T02:32:10.361964,
+0001035092,error,2025-07-11T02:32:48.971395,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000822697,error,2025-07-11T02:32:55.636605,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000009659,error,2025-07-11T02:32:59.445373,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000090498,error,2025-07-11T02:33:13.859015,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000855876,error,2025-07-11T02:33:34.389413,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001083286,download_failed,2025-07-11T02:33:45.651471,
+0000884782,error,2025-07-11T02:33:51.734653,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001038773,error,2025-07-11T02:34:43.811285,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001293314,error,2025-07-11T02:34:49.636642,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001108824,download_failed,2025-07-11T02:34:50.796829,
+0001120427,error,2025-07-11T02:35:06.306844,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001279756,error,2025-07-11T02:35:10.704126,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001171017,error,2025-07-11T02:35:15.483532,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001137046,error,2025-07-11T02:35:30.675738,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000849951,download_failed,2025-07-11T02:35:32.136757,
+0001090009,error,2025-07-11T02:36:26.911528,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001056238,download_failed,2025-07-11T02:36:28.166407,
+0000092081,error,2025-07-11T02:36:41.289013,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000844884,error,2025-07-11T02:36:43.485046,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001275873,error,2025-07-11T02:36:51.730547,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000092440,error,2025-07-11T02:36:54.985528,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000825042,error,2025-07-11T02:36:57.013411,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036678,error,2025-07-11T02:37:02.207480,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000093451,error,2025-07-11T02:37:46.887171,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001070154,error,2025-07-11T02:38:51.238129,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000811671,error,2025-07-11T02:39:24.770076,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001166362,error,2025-07-11T02:39:28.102932,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000768177,error,2025-07-11T02:39:32.687423,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001009569,error,2025-07-11T02:39:37.648556,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001060504,download_failed,2025-07-11T02:39:38.753810,
+0000754673,error,2025-07-11T02:40:04.862270,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000101320,error,2025-07-11T02:40:10.635948,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000745344,error,2025-07-11T02:40:29.149468,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000856223,error,2025-07-11T02:40:39.809876,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001105880,download_failed,2025-07-11T02:40:41.102203,
+0001072695,download_failed,2025-07-11T02:40:52.334552,
+0000750556,error,2025-07-11T02:41:47.757772,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001037959,download_failed,2025-07-11T02:41:48.920003,
+0001055167,download_failed,2025-07-11T02:41:50.096985,
+0001162294,download_failed,2025-07-11T02:41:51.193691,
+0000784932,error,2025-07-11T02:41:56.795146,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000700863,error,2025-07-11T02:42:42.054999,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000018349,error,2025-07-11T02:43:13.611051,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000811830,error,2025-07-11T02:44:02.445844,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001357231,error,2025-07-11T02:44:16.194590,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001385090,download_failed,2025-07-11T02:44:27.401348,
+0001301093,download_failed,2025-07-11T02:44:28.631700,
+0001332626,error,2025-07-11T02:44:32.088550,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001473844,error,2025-07-11T02:44:52.705411,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001272754,error,2025-07-11T02:45:12.265205,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001360683,error,2025-07-11T02:45:36.344415,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001048435,download_failed,2025-07-11T02:45:37.554289,
+0000814184,error,2025-07-11T02:46:07.385038,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000019612,error,2025-07-11T02:46:19.586151,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001082484,error,2025-07-11T02:46:44.979719,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000776618,error,2025-07-11T02:46:59.135996,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001172678,error,2025-07-11T02:47:12.210974,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001175158,download_failed,2025-07-11T02:47:13.373300,
+0001169238,error,2025-07-11T02:47:31.716948,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001551286,error,2025-07-11T02:47:35.365134,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000944468,error,2025-07-11T02:47:38.279104,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001178409,error,2025-07-11T02:48:00.246874,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000704469,error,2025-07-11T02:48:07.036090,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001140249,error,2025-07-11T02:48:12.740144,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001010398,download_failed,2025-07-11T02:48:13.856222,
+0000099771,error,2025-07-11T02:49:15.327354,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001075046,error,2025-07-11T02:49:20.207213,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000092230,error,2025-07-11T02:49:38.569008,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036146,error,2025-07-11T02:50:36.700896,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000859632,download_failed,2025-07-11T02:50:37.907187,
+0001403008,error,2025-07-11T02:50:47.621503,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001114446,download_failed,2025-07-11T02:50:48.857775,
+0001610520,download_failed,2025-07-11T02:50:50.019019,
+0000101382,error,2025-07-11T02:51:13.697457,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000919871,error,2025-07-11T02:51:17.727565,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000874482,error,2025-07-11T02:51:41.976804,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000100893,error,2025-07-11T02:51:52.732769,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001087456,error,2025-07-11T02:52:19.534429,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000916709,error,2025-07-11T02:52:21.774204,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000831959,error,2025-07-11T02:52:29.844075,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001137547,error,2025-07-11T02:53:23.179917,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001054929,error,2025-07-11T02:53:27.196491,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000746481,error,2025-07-11T02:53:46.056713,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000101542,error,2025-07-11T02:53:49.880322,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036104,error,2025-07-11T02:53:58.757374,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001443217,download_failed,2025-07-11T02:54:09.998232,
+0000714310,error,2025-07-11T02:54:57.597261,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000744471,error,2025-07-11T02:55:01.096012,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001051345,error,2025-07-11T02:55:08.243006,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000715148,error,2025-07-11T02:55:12.399514,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000840256,error,2025-07-11T02:55:40.517525,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000862077,error,2025-07-11T02:55:45.858882,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000831979,error,2025-07-11T02:55:50.811925,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001572334,error,2025-07-11T02:56:17.313633,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000036995,error,2025-07-11T02:56:22.615246,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000774203,error,2025-07-11T02:56:41.635054,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000936528,error,2025-07-11T02:57:08.703436,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001089830,download_failed,2025-07-11T02:57:09.933297,
+0000801337,error,2025-07-11T02:57:30.554396,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000105598,error,2025-07-11T02:57:35.440319,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000072971,error,2025-07-11T02:57:45.632416,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000907687,error,2025-07-10T23:16:33.776958,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001395848,error,2025-07-10T23:16:44.648256,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001104042,error,2025-07-10T23:16:59.416240,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001005356,download_failed,2025-07-10T23:17:02.022846,
+0000002488,error,2025-07-10T23:17:13.111931,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000869986,error,2025-07-10T23:17:32.984306,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001114973,error,2025-07-10T23:17:44.029275,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001158838,download_failed,2025-07-10T23:17:45.286593,
+0001487990,error,2025-07-10T23:17:52.988838,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000002601,error,2025-07-10T23:18:14.673680,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001129446,error,2025-07-10T23:18:35.646349,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000866291,error,2025-07-10T23:18:43.768409,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000203596,error,2025-07-11T02:58:20.775639,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001157294,download_failed,2025-07-11T02:58:22.117851,
+0000351155,error,2025-07-11T02:58:25.685690,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000311094,error,2025-07-11T02:59:14.559595,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001406251,error,2025-07-11T02:59:38.838729,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001115568,error,2025-07-11T02:59:57.527852,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000106926,error,2025-07-11T03:00:19.911494,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000885275,error,2025-07-11T03:00:42.798176,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001124146,download_failed,2025-07-11T03:00:43.992406,
+0000350572,error,2025-07-11T03:00:46.188366,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000828944,error,2025-07-11T03:01:20.667443,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001294171,download_failed,2025-07-11T03:01:21.921018,
+0001143155,error,2025-07-11T03:01:53.944381,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000787849,error,2025-07-11T03:02:15.890944,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000109380,error,2025-07-11T03:02:33.196802,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001122342,error,2025-07-10T23:19:01.776070,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000913293,error,2025-07-10T23:19:20.107815,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001387467,error,2025-07-10T23:19:47.157846,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000768251,error,2025-07-10T23:20:04.408392,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001280263,error,2025-07-10T23:20:20.442010,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001161963,error,2025-07-10T23:20:33.333347,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0001047127,error,2025-07-10T23:20:50.281022,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000940332,error,2025-07-10T23:21:13.889484,process_single_ticker() missing 2 required positional arguments: 'cik' and 'title'
+0000006281,error,2025-07-10T18:08:38.819562,'>' not supported between instances of 'str' and 'int'
+0001081078,error,2025-07-10T18:08:40.854408,'>' not supported between instances of 'str' and 'int'
+0001040660,error,2025-07-10T18:08:42.790724,'>' not supported between instances of 'str' and 'int'
+0000006951,error,2025-07-10T18:08:44.811613,'>' not supported between instances of 'str' and 'int'
+0000711065,error,2025-07-10T18:08:46.753153,'>' not supported between instances of 'str' and 'int'
+0001158114,error,2025-07-10T18:08:48.696659,'>' not supported between instances of 'str' and 'int'
+0001176193,error,2025-07-10T18:08:50.642214,'>' not supported between instances of 'str' and 'int'
+0001316016,error,2025-07-10T18:08:52.616668,'>' not supported between instances of 'str' and 'int'
+0001057997,download_failed,2025-07-10T18:08:53.871687,
+0001973239,download_failed,2025-07-10T18:08:55.071484,
+0001048982,error,2025-07-10T18:09:07.163928,'>' not supported between instances of 'str' and 'int'
+0001102384,download_failed,2025-07-10T18:09:08.409926,
+0001014838,download_failed,2025-07-10T18:09:09.660585,
+0001122411,download_failed,2025-07-10T18:09:10.886287,
+0001049861,error,2025-07-10T18:09:12.849819,'>' not supported between instances of 'str' and 'int'
+0000885672,error,2025-07-10T18:09:14.815355,'>' not supported between instances of 'str' and 'int'
+0001140486,error,2025-07-10T18:09:17.031826,'>' not supported between instances of 'str' and 'int'
+0000872448,error,2025-07-10T18:09:19.278664,'>' not supported between instances of 'str' and 'int'
+0001172494,download_failed,2025-07-10T18:09:20.592087,
+0001201663,error,2025-07-10T18:09:22.668881,'>' not supported between instances of 'str' and 'int'
+0001138830,error,2025-07-10T18:09:34.690964,'>' not supported between instances of 'str' and 'int'
+0001056794,error,2025-07-10T18:09:36.701159,'>' not supported between instances of 'str' and 'int'
+0001051627,error,2025-07-10T18:09:38.692663,'>' not supported between instances of 'str' and 'int'
+0001651235,error,2025-07-10T18:09:40.581621,'>' not supported between instances of 'str' and 'int'
+0001342068,download_failed,2025-07-10T18:09:41.734633,
+0001828805,error,2025-07-10T18:09:43.569467,'>' not supported between instances of 'str' and 'int'
+0001366144,download_failed,2025-07-10T18:09:44.800842,
+0001667011,error,2025-07-10T18:09:46.552796,'>' not supported between instances of 'str' and 'int'
+0001350102,error,2025-07-10T18:09:48.495619,'>' not supported between instances of 'str' and 'int'
+0001736297,download_failed,2025-07-10T18:09:49.682620,
+0001420520,error,2025-07-10T18:10:01.722249,'>' not supported between instances of 'str' and 'int'
+0001376403,error,2025-07-10T18:10:03.576938,'>' not supported between instances of 'str' and 'int'
+0001441634,error,2025-07-10T18:10:05.596839,'>' not supported between instances of 'str' and 'int'
+0001289814,download_failed,2025-07-10T18:10:06.853464,
+0001003196,download_failed,2025-07-10T18:10:10.003608,
+0001274991,download_failed,2025-07-10T18:10:11.133603,
+0000872918,error,2025-07-10T18:10:12.951940,'>' not supported between instances of 'str' and 'int'
+0000889155,error,2025-07-10T18:10:14.774175,'>' not supported between instances of 'str' and 'int'
+0001054374,error,2025-07-10T18:10:16.698887,'>' not supported between instances of 'str' and 'int'
+0000764271,error,2025-07-10T18:10:18.579638,'>' not supported between instances of 'str' and 'int'
+0000715577,error,2025-07-10T18:10:30.731807,'>' not supported between instances of 'str' and 'int'
+0001398805,error,2025-07-10T18:10:32.562165,'>' not supported between instances of 'str' and 'int'
+0001649345,error,2025-07-10T18:10:34.392858,'>' not supported between instances of 'str' and 'int'
+0001730168,error,2025-07-10T18:10:36.265240,'>' not supported between instances of 'str' and 'int'
+0001649338,error,2025-07-10T18:10:38.159210,'>' not supported between instances of 'str' and 'int'
+0001871638,error,2025-07-10T18:10:39.927768,'>' not supported between instances of 'str' and 'int'
+0001102056,error,2025-07-10T18:10:41.728027,'>' not supported between instances of 'str' and 'int'
+0001073489,error,2025-07-10T18:10:43.504323,'>' not supported between instances of 'str' and 'int'
+0001324344,error,2025-07-10T18:10:45.285294,'>' not supported between instances of 'str' and 'int'
+0000899636,error,2025-07-10T18:10:47.110564,'>' not supported between instances of 'str' and 'int'
+0001175609,error,2025-07-10T18:10:59.078166,'>' not supported between instances of 'str' and 'int'
+0001100732,download_failed,2025-07-10T18:11:00.235539,
+0001095270,download_failed,2025-07-10T18:11:01.362609,
+0001133478,download_failed,2025-07-10T18:11:02.536129,
+0001123134,download_failed,2025-07-10T18:11:03.724408,
+0001093779,error,2025-07-10T18:11:05.660610,'>' not supported between instances of 'str' and 'int'
+0000767965,error,2025-07-10T18:11:07.561250,'>' not supported between instances of 'str' and 'int'
+0001125352,download_failed,2025-07-10T18:11:08.704203,
+0001191334,error,2025-07-10T18:11:10.506181,'>' not supported between instances of 'str' and 'int'
+0001039497,download_failed,2025-07-10T18:11:11.676237,
+0000772406,error,2025-07-10T18:11:23.736462,'>' not supported between instances of 'str' and 'int'
+0001102934,error,2025-07-10T18:11:25.628344,'>' not supported between instances of 'str' and 'int'
+0001127946,download_failed,2025-07-10T18:11:26.794505,
+0001069353,error,2025-07-10T18:11:28.665571,'>' not supported between instances of 'str' and 'int'
+0001164975,download_failed,2025-07-10T18:11:29.842785,
+0001368358,download_failed,2025-07-10T18:11:31.030831,
+0001047427,error,2025-07-10T18:11:32.788857,'>' not supported between instances of 'str' and 'int'
+0001138169,error,2025-07-10T18:11:34.626507,'>' not supported between instances of 'str' and 'int'
+0001126994,download_failed,2025-07-10T18:11:35.791298,
+0000791915,error,2025-07-10T18:11:37.920567,'>' not supported between instances of 'str' and 'int'
+0000867105,error,2025-07-10T18:11:49.829068,'>' not supported between instances of 'str' and 'int'
+0001297968,error,2025-07-10T18:11:51.577165,'>' not supported between instances of 'str' and 'int'
+0001375877,download_failed,2025-07-10T18:11:52.716999,
+0002021728,download_failed,2025-07-10T18:11:53.886544,
+0001494562,error,2025-07-10T18:11:55.610107,'>' not supported between instances of 'str' and 'int'
+0001396247,download_failed,2025-07-10T18:11:56.729362,
+0001807794,error,2025-07-10T18:11:58.518453,'>' not supported between instances of 'str' and 'int'
+0000749420,error,2025-07-10T18:12:00.280476,'>' not supported between instances of 'str' and 'int'
+0001477641,download_failed,2025-07-10T18:12:01.576217,
+0001262200,error,2025-07-10T18:12:04.720446,'>' not supported between instances of 'str' and 'int'
+0001116581,download_failed,2025-07-10T18:12:15.937059,
+0000029002,error,2025-07-10T18:12:17.792458,'>' not supported between instances of 'str' and 'int'
+0000821256,download_failed,2025-07-10T18:12:18.951210,
+0001118344,download_failed,2025-07-10T18:12:21.408982,
+0000915778,error,2025-07-10T18:12:26.226812,'>' not supported between instances of 'str' and 'int'
+0000784770,error,2025-07-10T18:12:29.654434,'>' not supported between instances of 'str' and 'int'
+0000886328,error,2025-07-10T18:12:31.466054,'>' not supported between instances of 'str' and 'int'
+0001044007,error,2025-07-10T18:12:33.342581,'>' not supported between instances of 'str' and 'int'
+0001432242,download_failed,2025-07-10T18:12:34.483227,
+0000949872,error,2025-07-10T18:12:36.313218,'>' not supported between instances of 'str' and 'int'
+0001046995,error,2025-07-10T18:12:48.316045,'>' not supported between instances of 'str' and 'int'
+0001101322,download_failed,2025-07-10T18:12:49.479770,
+0000808326,error,2025-07-10T18:12:51.353924,'>' not supported between instances of 'str' and 'int'
+0000032878,error,2025-07-10T18:12:53.319312,'>' not supported between instances of 'str' and 'int'
+0000866830,error,2025-07-10T18:12:55.187590,'>' not supported between instances of 'str' and 'int'
+0001227930,error,2025-07-10T18:12:57.074145,'>' not supported between instances of 'str' and 'int'
+0001053469,download_failed,2025-07-10T18:12:58.188083,
+0000907410,error,2025-07-10T18:13:00.038712,'>' not supported between instances of 'str' and 'int'
+0001596089,error,2025-07-10T18:13:01.808716,'>' not supported between instances of 'str' and 'int'
+0000947397,error,2025-07-10T18:13:03.613870,'>' not supported between instances of 'str' and 'int'
+0001438423,error,2025-07-10T18:13:15.583907,'>' not supported between instances of 'str' and 'int'
+0000753568,error,2025-07-10T18:13:17.489382,'>' not supported between instances of 'str' and 'int'
+0001463101,error,2025-07-10T18:13:19.312879,'>' not supported between instances of 'str' and 'int'
+0001038272,error,2025-07-10T18:13:21.100917,'>' not supported between instances of 'str' and 'int'
+0001036960,error,2025-07-10T18:13:22.973771,'>' not supported between instances of 'str' and 'int'
+0001094739,error,2025-07-10T18:13:24.774319,'>' not supported between instances of 'str' and 'int'
+0001274494,error,2025-07-10T18:13:26.534329,'>' not supported between instances of 'str' and 'int'
+0001039399,error,2025-07-10T18:13:28.429340,'>' not supported between instances of 'str' and 'int'
+0001272547,error,2025-07-10T18:13:30.251980,'>' not supported between instances of 'str' and 'int'
+0001992243,error,2025-07-10T18:13:32.020959,'>' not supported between instances of 'str' and 'int'
+0001828161,error,2025-07-10T18:13:43.854884,'>' not supported between instances of 'str' and 'int'
+0001392522,error,2025-07-10T18:13:45.731715,'>' not supported between instances of 'str' and 'int'
+0001041840,download_failed,2025-07-10T18:13:46.894862,
+0001421365,download_failed,2025-07-10T18:13:48.066782,
+0001851961,error,2025-07-10T18:13:49.904009,'>' not supported between instances of 'str' and 'int'
+0001053782,error,2025-07-10T18:13:51.784849,'>' not supported between instances of 'str' and 'int'
+0001161396,error,2025-07-10T18:13:53.606517,'>' not supported between instances of 'str' and 'int'
+0001069562,error,2025-07-10T18:13:55.479944,'>' not supported between instances of 'str' and 'int'
+0001709048,download_failed,2025-07-10T18:13:56.599527,
+0001081197,error,2025-07-10T18:13:58.430633,'>' not supported between instances of 'str' and 'int'
+0001126741,error,2025-07-10T18:14:10.502272,'>' not supported between instances of 'str' and 'int'
+0001394954,error,2025-07-10T18:14:12.423369,'>' not supported between instances of 'str' and 'int'
+0001432150,error,2025-07-10T18:14:14.462692,'>' not supported between instances of 'str' and 'int'
+0001832487,error,2025-07-10T18:14:16.405869,'>' not supported between instances of 'str' and 'int'
+0000351298,error,2025-07-10T18:14:18.553780,'>' not supported between instances of 'str' and 'int'
+0001065246,error,2025-07-10T18:14:20.420347,'>' not supported between instances of 'str' and 'int'
+0001130866,error,2025-07-10T18:14:22.347145,'>' not supported between instances of 'str' and 'int'
+0000715593,download_failed,2025-07-10T18:14:23.476380,
+0001371541,download_failed,2025-07-10T18:14:24.999160,
+0001342338,download_failed,2025-07-10T18:14:26.216782,
+0000855182,error,2025-07-10T18:14:38.238060,'>' not supported between instances of 'str' and 'int'
+0001652535,error,2025-07-10T18:14:40.325483,'>' not supported between instances of 'str' and 'int'
+0001281872,error,2025-07-10T18:14:42.170274,'>' not supported between instances of 'str' and 'int'
+0000812927,error,2025-07-10T18:14:44.079984,'>' not supported between instances of 'str' and 'int'
+0001107457,download_failed,2025-07-10T18:14:45.236050,
+0000932980,error,2025-07-10T18:14:47.088952,'>' not supported between instances of 'str' and 'int'
+0001160958,error,2025-07-10T18:14:48.951547,'>' not supported between instances of 'str' and 'int'
+0001099425,error,2025-07-10T18:14:50.769405,'>' not supported between instances of 'str' and 'int'
+0000909211,download_failed,2025-07-10T18:14:51.886768,
+0000874689,error,2025-07-10T18:14:53.700481,'>' not supported between instances of 'str' and 'int'
+0000703361,error,2025-07-10T18:15:05.903761,'>' not supported between instances of 'str' and 'int'
+0000929846,download_failed,2025-07-10T18:15:07.160870,
+0000854701,error,2025-07-10T18:15:09.113963,'>' not supported between instances of 'str' and 'int'
+0000050863,error,2025-07-10T18:15:10.842397,'>' not supported between instances of 'str' and 'int'
+0001120105,error,2025-07-10T18:15:12.787692,'>' not supported between instances of 'str' and 'int'
+0001311241,error,2025-07-10T18:15:15.009182,'>' not supported between instances of 'str' and 'int'
+0001053182,download_failed,2025-07-10T18:15:16.321421,
+0000316793,error,2025-07-10T18:15:18.366345,'>' not supported between instances of 'str' and 'int'
+0000050842,error,2025-07-10T18:15:23.672057,'>' not supported between instances of 'str' and 'int'
+0001096324,download_failed,2025-07-10T18:15:24.899232,
+0001096325,error,2025-07-10T18:15:36.876530,'>' not supported between instances of 'str' and 'int'
+0001108627,download_failed,2025-07-10T18:15:38.060496,
+0001111928,error,2025-07-10T18:15:40.088019,'>' not supported between instances of 'str' and 'int'
+0001053997,download_failed,2025-07-10T18:15:41.467044,
+0001634447,error,2025-07-10T18:15:43.276385,'>' not supported between instances of 'str' and 'int'
+0001221910,download_failed,2025-07-10T18:15:44.518905,
+0000945699,error,2025-07-10T18:15:46.422407,'>' not supported between instances of 'str' and 'int'
+0001507957,error,2025-07-10T18:15:48.284998,'>' not supported between instances of 'str' and 'int'
+0001816696,error,2025-07-10T18:15:50.118986,'>' not supported between instances of 'str' and 'int'
+0001895597,download_failed,2025-07-10T18:15:51.257365,
+0001294924,error,2025-07-10T18:16:03.357570,'>' not supported between instances of 'str' and 'int'
+0001385598,download_failed,2025-07-10T18:16:04.491893,
+0001200720,download_failed,2025-07-10T18:16:05.684196,
+0001094087,error,2025-07-10T18:16:07.486056,'>' not supported between instances of 'str' and 'int'
+0001481513,download_failed,2025-07-10T18:16:08.664953,
+0001028852,download_failed,2025-07-10T18:16:09.814959,
+0000771266,error,2025-07-10T18:16:11.812309,'>' not supported between instances of 'str' and 'int'
+0000056978,error,2025-07-10T18:16:13.809716,'>' not supported between instances of 'str' and 'int'
+0000057083,download_failed,2025-07-10T18:16:15.208224,
+0001494162,error,2025-07-10T18:16:19.892734,'>' not supported between instances of 'str' and 'int'
+0000855658,error,2025-07-10T18:16:32.015294,'>' not supported between instances of 'str' and 'int'
+0001385424,download_failed,2025-07-10T18:16:33.172174,
+0001130626,error,2025-07-10T18:16:35.044622,'>' not supported between instances of 'str' and 'int'
+0000771617,error,2025-07-10T18:16:36.853118,'>' not supported between instances of 'str' and 'int'
+0000908985,error,2025-07-10T18:16:38.688982,'>' not supported between instances of 'str' and 'int'
+0000768152,download_failed,2025-07-10T18:16:39.942974,
+0000889971,error,2025-07-10T18:16:41.922475,'>' not supported between instances of 'str' and 'int'
+0000791907,error,2025-07-10T18:16:43.845695,'>' not supported between instances of 'str' and 'int'
+0000093205,error,2025-07-10T18:16:45.690824,'>' not supported between instances of 'str' and 'int'
+0000802851,error,2025-07-10T18:16:48.677318,'>' not supported between instances of 'str' and 'int'
+0000703360,error,2025-07-10T18:17:00.631625,'>' not supported between instances of 'str' and 'int'
+0001137399,error,2025-07-10T18:17:02.440226,'>' not supported between instances of 'str' and 'int'
+0001119602,error,2025-07-10T18:17:04.235493,'>' not supported between instances of 'str' and 'int'
+0000065771,error,2025-07-10T18:17:06.071856,'>' not supported between instances of 'str' and 'int'
+0001493594,error,2025-07-10T18:17:07.873959,'>' not supported between instances of 'str' and 'int'
+0001009680,download_failed,2025-07-10T18:17:08.982848,
+0001325702,error,2025-07-10T18:17:10.841640,'>' not supported between instances of 'str' and 'int'
+0001050132,download_failed,2025-07-10T18:17:12.013199,
+0001058057,error,2025-07-10T18:17:13.896136,'>' not supported between instances of 'str' and 'int'
+0000743316,error,2025-07-10T18:17:15.770195,'>' not supported between instances of 'str' and 'int'
+0001288469,error,2025-07-10T18:17:27.662079,'>' not supported between instances of 'str' and 'int'
+0000916232,error,2025-07-10T18:17:29.502908,'>' not supported between instances of 'str' and 'int'
+0001386198,error,2025-07-10T18:17:31.278133,'>' not supported between instances of 'str' and 'int'
+0001431959,error,2025-07-10T18:17:33.310594,'>' not supported between instances of 'str' and 'int'
+0001098462,download_failed,2025-07-10T18:17:34.464381,
+0000932111,error,2025-07-10T18:17:36.283440,'>' not supported between instances of 'str' and 'int'
+0001090293,download_failed,2025-07-10T18:17:37.499483,
+0000875359,error,2025-07-10T18:17:39.307070,'>' not supported between instances of 'str' and 'int'
+0000827054,error,2025-07-10T18:17:41.134647,'>' not supported between instances of 'str' and 'int'
+0000723125,error,2025-07-10T18:17:43.197660,'>' not supported between instances of 'str' and 'int'
+0000065759,error,2025-07-10T18:17:55.236461,'>' not supported between instances of 'str' and 'int'
+0000310568,error,2025-07-10T18:17:57.312938,'>' not supported between instances of 'str' and 'int'
+0001108058,error,2025-07-10T18:17:59.202412,'>' not supported between instances of 'str' and 'int'
+0001224370,error,2025-07-10T18:18:01.207035,'>' not supported between instances of 'str' and 'int'
+0001059786,error,2025-07-10T18:18:03.051645,'>' not supported between instances of 'str' and 'int'
+0001855467,error,2025-07-10T18:18:04.851192,'>' not supported between instances of 'str' and 'int'
+0001280452,error,2025-07-10T18:18:06.717716,'>' not supported between instances of 'str' and 'int'
+0001375514,download_failed,2025-07-10T18:18:07.886717,
+0000887969,error,2025-07-10T18:18:09.815288,'>' not supported between instances of 'str' and 'int'
+0000354807,error,2025-07-10T18:18:11.767807,'>' not supported between instances of 'str' and 'int'
+0000798952,error,2025-07-10T18:18:23.666011,'>' not supported between instances of 'str' and 'int'
+0001114068,error,2025-07-10T18:18:25.470405,'>' not supported between instances of 'str' and 'int'
+0001330351,download_failed,2025-07-10T18:18:26.598875,
+0001835632,error,2025-07-10T18:18:28.395327,'>' not supported between instances of 'str' and 'int'
+0001417451,error,2025-07-10T18:18:30.142736,'>' not supported between instances of 'str' and 'int'
+0001796898,download_failed,2025-07-10T18:18:31.251426,
+0001356104,error,2025-07-10T18:18:33.150858,'>' not supported between instances of 'str' and 'int'
+0001160719,download_failed,2025-07-10T18:18:34.301438,
+0000070530,error,2025-07-10T18:18:36.270749,'>' not supported between instances of 'str' and 'int'
+0001030485,error,2025-07-10T18:18:38.218790,'>' not supported between instances of 'str' and 'int'
+0001227025,error,2025-07-10T18:18:50.541608,'>' not supported between instances of 'str' and 'int'
+0001282631,error,2025-07-10T18:18:52.313591,'>' not supported between instances of 'str' and 'int'
+0001135711,error,2025-07-10T18:18:54.172736,'>' not supported between instances of 'str' and 'int'
+0001090215,error,2025-07-10T18:18:55.937358,'>' not supported between instances of 'str' and 'int'
+0000919941,download_failed,2025-07-10T18:18:57.058459,
+0001236761,download_failed,2025-07-10T18:18:58.193592,
+0001124796,error,2025-07-10T18:18:59.998478,'>' not supported between instances of 'str' and 'int'
+0000724910,error,2025-07-10T18:19:05.564155,'>' not supported between instances of 'str' and 'int'
+0001045810,error,2025-07-10T18:19:09.033717,'>' not supported between instances of 'str' and 'int'
+0001396945,download_failed,2025-07-10T18:19:10.197195,
+0001413447,error,2025-07-10T18:19:22.134370,'>' not supported between instances of 'str' and 'int'
+0001872302,download_failed,2025-07-10T18:19:23.278962,
+0001571636,error,2025-07-10T18:19:25.117916,'>' not supported between instances of 'str' and 'int'
+0001464623,download_failed,2025-07-10T18:19:26.241801,
+0001821769,error,2025-07-10T18:19:28.009862,'>' not supported between instances of 'str' and 'int'
+0001095348,download_failed,2025-07-10T18:19:29.129438,
+0000824225,error,2025-07-10T18:19:31.010902,'>' not supported between instances of 'str' and 'int'
+0001156934,download_failed,2025-07-10T18:19:32.151037,
+0001110647,error,2025-07-10T18:19:34.290477,'>' not supported between instances of 'str' and 'int'
+0001106851,error,2025-07-10T18:19:36.183536,'>' not supported between instances of 'str' and 'int'
+0001097864,error,2025-07-10T18:19:49.086143,'>' not supported between instances of 'str' and 'int'
+0001021604,error,2025-07-10T18:19:51.024841,'>' not supported between instances of 'str' and 'int'
+0001157780,error,2025-07-10T18:19:52.806224,'>' not supported between instances of 'str' and 'int'
+0000804312,error,2025-07-10T18:19:54.651493,'>' not supported between instances of 'str' and 'int'
+0000899297,error,2025-07-10T18:19:56.671007,'>' not supported between instances of 'str' and 'int'
+0001125840,download_failed,2025-07-10T18:19:57.800662,
+0001122668,error,2025-07-10T18:20:00.607461,'>' not supported between instances of 'str' and 'int'
+0001219169,error,2025-07-10T18:20:02.521304,'>' not supported between instances of 'str' and 'int'
+0000930599,download_failed,2025-07-10T18:20:03.793965,
+0000924101,error,2025-07-10T18:20:05.660856,'>' not supported between instances of 'str' and 'int'
+0001039065,error,2025-07-10T18:20:17.485595,'>' not supported between instances of 'str' and 'int'
+0001781405,error,2025-07-10T18:20:19.265873,'>' not supported between instances of 'str' and 'int'
+0000917736,error,2025-07-10T18:20:21.092608,'>' not supported between instances of 'str' and 'int'
+0001113474,download_failed,2025-07-10T18:20:23.787803,
+0000880177,error,2025-07-10T18:20:25.682771,'>' not supported between instances of 'str' and 'int'
+0001345432,error,2025-07-10T18:20:27.535120,'>' not supported between instances of 'str' and 'int'
+0001001426,error,2025-07-10T18:20:29.628788,'>' not supported between instances of 'str' and 'int'
+0000810136,error,2025-07-10T18:20:31.631764,'>' not supported between instances of 'str' and 'int'
+0001040161,error,2025-07-10T18:20:33.620359,'>' not supported between instances of 'str' and 'int'
+0000850579,error,2025-07-10T18:20:35.605560,'>' not supported between instances of 'str' and 'int'
+0000767920,error,2025-07-10T18:20:47.620525,'>' not supported between instances of 'str' and 'int'
+0001437424,download_failed,2025-07-10T18:20:48.730482,
+0000833640,error,2025-07-10T18:20:50.596919,'>' not supported between instances of 'str' and 'int'
+0001106714,download_failed,2025-07-10T18:20:51.719725,
+0001425360,download_failed,2025-07-10T18:20:52.853700,
+0001336391,download_failed,2025-07-10T18:20:53.975438,
+0000890394,error,2025-07-10T18:20:55.863708,'>' not supported between instances of 'str' and 'int'
+0001331588,download_failed,2025-07-10T18:20:57.148429,
+0000907686,error,2025-07-10T18:20:59.053331,'>' not supported between instances of 'str' and 'int'
+0001297633,error,2025-07-10T18:21:01.046638,'>' not supported between instances of 'str' and 'int'
+0001119869,download_failed,2025-07-10T18:21:12.264263,
+0000869886,error,2025-07-10T18:21:14.134801,'>' not supported between instances of 'str' and 'int'
+0001370702,error,2025-07-10T18:21:15.969823,'>' not supported between instances of 'str' and 'int'
+0001093272,download_failed,2025-07-10T18:21:17.097024,
+0000855309,download_failed,2025-07-10T18:21:18.273461,
+0000882508,error,2025-07-10T18:21:20.218182,'>' not supported between instances of 'str' and 'int'
+0001369377,download_failed,2025-07-10T18:21:21.346788,
+0001604778,error,2025-07-10T18:21:23.224479,'>' not supported between instances of 'str' and 'int'
+0000917273,error,2025-07-10T18:21:25.099555,'>' not supported between instances of 'str' and 'int'
+0000849502,error,2025-07-10T18:21:27.046213,'>' not supported between instances of 'str' and 'int'
+0001493637,download_failed,2025-07-10T18:21:38.287327,
+0000769874,error,2025-07-10T18:21:40.313195,'>' not supported between instances of 'str' and 'int'
+0000911160,error,2025-07-10T18:21:42.180950,'>' not supported between instances of 'str' and 'int'
+0001631547,error,2025-07-10T18:21:43.999113,'>' not supported between instances of 'str' and 'int'
+0000949702,error,2025-07-10T18:21:45.852470,'>' not supported between instances of 'str' and 'int'
+0001579910,error,2025-07-10T18:21:47.690466,'>' not supported between instances of 'str' and 'int'
+0001852117,error,2025-07-10T18:21:49.613019,'>' not supported between instances of 'str' and 'int'
+0001410172,error,2025-07-10T18:21:51.460781,'>' not supported between instances of 'str' and 'int'
+0000889423,error,2025-07-10T18:21:53.353477,'>' not supported between instances of 'str' and 'int'
+0000934741,error,2025-07-10T18:21:55.141446,'>' not supported between instances of 'str' and 'int'
+0001951222,download_failed,2025-07-10T18:22:06.332156,
+0000702756,error,2025-07-10T18:22:08.181206,'>' not supported between instances of 'str' and 'int'
+0000088922,error,2025-07-10T18:22:10.193442,'>' not supported between instances of 'str' and 'int'
+0000921445,download_failed,2025-07-10T18:22:11.297654,
+0001267482,download_failed,2025-07-10T18:22:12.482361,
+0000088941,error,2025-07-10T18:22:14.326200,'>' not supported between instances of 'str' and 'int'
+0001383395,download_failed,2025-07-10T18:22:15.472570,
+0001213018,download_failed,2025-07-10T18:22:16.593986,
+0000790715,error,2025-07-10T18:22:18.511217,'>' not supported between instances of 'str' and 'int'
+0001043639,error,2025-07-10T18:22:20.454504,'>' not supported between instances of 'str' and 'int'
+0001038074,error,2025-07-10T18:22:32.337801,'>' not supported between instances of 'str' and 'int'
+0000855906,error,2025-07-10T18:22:34.219822,'>' not supported between instances of 'str' and 'int'
+0000090283,error,2025-07-10T18:22:36.038974,'>' not supported between instances of 'str' and 'int'
+0001111759,download_failed,2025-07-10T18:22:37.138995,
+0000817516,error,2025-07-10T18:22:39.019272,'>' not supported between instances of 'str' and 'int'
+0001007800,error,2025-07-10T18:22:40.868871,'>' not supported between instances of 'str' and 'int'
+0001103777,error,2025-07-10T18:22:42.725895,'>' not supported between instances of 'str' and 'int'
+0001163943,error,2025-07-10T18:22:44.486819,'>' not supported between instances of 'str' and 'int'
+0001451809,error,2025-07-10T18:22:46.269165,'>' not supported between instances of 'str' and 'int'
+0000004127,error,2025-07-10T18:22:48.058876,'>' not supported between instances of 'str' and 'int'
+0001616533,error,2025-07-10T18:23:00.086767,'>' not supported between instances of 'str' and 'int'
+0001001840,error,2025-07-10T18:23:01.934706,'>' not supported between instances of 'str' and 'int'
+0001326973,error,2025-07-10T18:23:03.817311,'>' not supported between instances of 'str' and 'int'
+0001307873,error,2025-07-10T18:23:06.325981,'>' not supported between instances of 'str' and 'int'
+0001419612,error,2025-07-10T18:23:08.204873,'>' not supported between instances of 'str' and 'int'
+0000091668,error,2025-07-10T18:23:10.169385,'>' not supported between instances of 'str' and 'int'
+0001443115,download_failed,2025-07-10T18:23:11.405049,
+0001047385,error,2025-07-10T18:23:13.265406,'>' not supported between instances of 'str' and 'int'
+0001210618,error,2025-07-10T18:23:15.366411,'>' not supported between instances of 'str' and 'int'
+0000731657,error,2025-07-10T18:23:17.250836,'>' not supported between instances of 'str' and 'int'
+0001287950,download_failed,2025-07-10T18:23:28.478846,
+0000093384,error,2025-07-10T18:23:30.460591,'>' not supported between instances of 'str' and 'int'
+0001101873,download_failed,2025-07-10T18:23:31.593739,
+0000932787,download_failed,2025-07-10T18:23:32.752033,
+0001111721,error,2025-07-10T18:23:34.591852,'>' not supported between instances of 'str' and 'int'
+0000945436,error,2025-07-10T18:23:36.567483,'>' not supported between instances of 'str' and 'int'
+0001481028,error,2025-07-10T18:23:38.338352,'>' not supported between instances of 'str' and 'int'
+0000867773,error,2025-07-10T18:23:40.441694,'>' not supported between instances of 'str' and 'int'
+0000730000,error,2025-07-10T18:23:42.368341,'>' not supported between instances of 'str' and 'int'
+0001126411,error,2025-07-10T18:23:44.245872,'>' not supported between instances of 'str' and 'int'
+0000817720,error,2025-07-10T18:23:56.114624,'>' not supported between instances of 'str' and 'int'
+0001014136,download_failed,2025-07-10T18:23:57.219031,
+0001297627,download_failed,2025-07-10T18:23:58.420984,
+0001333822,error,2025-07-10T18:24:00.253471,'>' not supported between instances of 'str' and 'int'
+0001990950,download_failed,2025-07-10T18:24:01.402498,
+0001831651,error,2025-07-10T18:24:03.175481,'>' not supported between instances of 'str' and 'int'
+0001355242,error,2025-07-10T18:24:04.986401,'>' not supported between instances of 'str' and 'int'
+0001329394,download_failed,2025-07-10T18:24:06.122010,
+0001819974,error,2025-07-10T18:24:08.028559,'>' not supported between instances of 'str' and 'int'
+0001817760,error,2025-07-10T18:24:09.833840,'>' not supported between instances of 'str' and 'int'
+0001421665,error,2025-07-10T18:24:21.980327,'>' not supported between instances of 'str' and 'int'
+0001410629,download_failed,2025-07-10T18:24:23.092344,
+0001840416,download_failed,2025-07-10T18:24:24.191149,
+0001322705,error,2025-07-10T18:24:26.054217,'>' not supported between instances of 'str' and 'int'
+0001585854,error,2025-07-10T18:24:27.871154,'>' not supported between instances of 'str' and 'int'
+0001342803,download_failed,2025-07-10T18:24:29.020080,
+0001291855,download_failed,2025-07-10T18:24:30.169698,
+0001046179,download_failed,2025-07-10T18:24:31.331641,
+0001171529,error,2025-07-10T18:24:33.070505,'>' not supported between instances of 'str' and 'int'
+0000917415,error,2025-07-10T18:24:34.881512,'>' not supported between instances of 'str' and 'int'
+0000096935,error,2025-07-10T18:24:46.985427,'>' not supported between instances of 'str' and 'int'
+0001006024,download_failed,2025-07-10T18:24:48.085920,
+0000914573,download_failed,2025-07-10T18:24:49.189056,
+0001261694,error,2025-07-10T18:24:51.052713,'>' not supported between instances of 'str' and 'int'
+0000097476,error,2025-07-10T18:24:52.933713,'>' not supported between instances of 'str' and 'int'
+0001855447,error,2025-07-10T18:24:54.719621,'>' not supported between instances of 'str' and 'int'
+0000928876,download_failed,2025-07-10T18:24:55.942006,
+0001370433,error,2025-07-10T18:24:57.793536,'>' not supported between instances of 'str' and 'int'
+0001001193,error,2025-07-10T18:24:59.546042,'>' not supported between instances of 'str' and 'int'
+0000944739,error,2025-07-10T18:25:01.496779,'>' not supported between instances of 'str' and 'int'
+0000859475,error,2025-07-10T18:25:13.423144,'>' not supported between instances of 'str' and 'int'
+0000913885,error,2025-07-10T18:25:15.472308,'>' not supported between instances of 'str' and 'int'
+0001109279,error,2025-07-10T18:25:17.311642,'>' not supported between instances of 'str' and 'int'
+0001556898,error,2025-07-10T18:25:19.265293,'>' not supported between instances of 'str' and 'int'
+0001296612,download_failed,2025-07-10T18:25:22.006904,
+0001290416,download_failed,2025-07-10T18:25:23.673580,
+0001337675,error,2025-07-10T18:25:26.051387,'>' not supported between instances of 'str' and 'int'
+0001715768,error,2025-07-10T18:25:27.825234,'>' not supported between instances of 'str' and 'int'
+0001382158,download_failed,2025-07-10T18:25:29.070000,
+0001033767,download_failed,2025-07-10T18:25:30.261509,
+0000101911,error,2025-07-10T18:25:42.195905,'>' not supported between instances of 'str' and 'int'
+0001456926,error,2025-07-10T18:25:44.209863,'>' not supported between instances of 'str' and 'int'
+0001275014,error,2025-07-10T18:25:46.258598,'>' not supported between instances of 'str' and 'int'
+0001063199,download_failed,2025-07-10T18:25:47.415250,
+0001511116,download_failed,2025-07-10T18:25:48.613823,
+0001769116,download_failed,2025-07-10T18:25:49.769767,
+0000912093,error,2025-07-10T18:25:51.764726,'>' not supported between instances of 'str' and 'int'
+0001050776,error,2025-07-10T18:25:53.752808,'>' not supported between instances of 'str' and 'int'
+0001094371,error,2025-07-10T18:25:55.604857,'>' not supported between instances of 'str' and 'int'
+0000880446,error,2025-07-10T18:25:57.976520,'>' not supported between instances of 'str' and 'int'
+0000704386,error,2025-07-10T18:26:10.260587,'>' not supported between instances of 'str' and 'int'
+0001050550,error,2025-07-10T18:26:13.150769,'>' not supported between instances of 'str' and 'int'
+0001863006,download_failed,2025-07-10T18:26:14.437639,
+0001352341,error,2025-07-10T18:26:16.426481,'>' not supported between instances of 'str' and 'int'
+0001341088,download_failed,2025-07-10T18:26:17.622795,
+0001123744,download_failed,2025-07-10T18:26:18.802962,
+0000013606,error,2025-07-10T18:26:20.932298,'>' not supported between instances of 'str' and 'int'
+0001109925,download_failed,2025-07-10T18:26:22.192460,
+0001682149,error,2025-07-10T18:26:24.200389,'>' not supported between instances of 'str' and 'int'
+0000895419,error,2025-07-10T18:26:26.180655,'>' not supported between instances of 'str' and 'int'
+0000319191,error,2025-07-10T18:26:39.413043,'>' not supported between instances of 'str' and 'int'
+0000743988,error,2025-07-10T18:26:41.627606,'>' not supported between instances of 'str' and 'int'
+0001690666,error,2025-07-10T18:26:43.467622,'>' not supported between instances of 'str' and 'int'
+0001394029,download_failed,2025-07-10T18:26:44.615863,
+0000352435,error,2025-07-10T18:26:46.733038,'>' not supported between instances of 'str' and 'int'
+0000319450,error,2025-07-10T18:26:48.639679,'>' not supported between instances of 'str' and 'int'
+0000756055,error,2025-07-10T18:26:50.571098,'>' not supported between instances of 'str' and 'int'
+0001003022,error,2025-07-10T18:26:52.439134,'>' not supported between instances of 'str' and 'int'
+0001109898,download_failed,2025-07-10T18:26:53.555100,
+0001841925,error,2025-07-10T18:26:55.388856,'>' not supported between instances of 'str' and 'int'
