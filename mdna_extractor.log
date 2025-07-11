@@ -1,0 +1,129 @@
+2025-07-11 05:55:38,933 - INFO - ✓ wkhtmltopdf found
+2025-07-11 05:55:38,934 - INFO - ✓ BeautifulSoup4 available
+2025-07-11 05:55:38,934 - INFO - ✓ lxml available
+2025-07-11 05:55:38,937 - INFO - Input directory: D:\10-k forms\TEST SIC\0000832847_0000832847
+2025-07-11 05:55:38,937 - INFO - Output directory: D:\10-k forms\MDNA_EXTRACTED
+2025-07-11 05:55:38,937 - INFO - Log file: mdna_extractor.log
+2025-07-11 05:55:38,937 - INFO - ==================================================
+2025-07-11 05:55:38,937 - INFO - Scanning filings under: D:\10-k forms\TEST SIC\0000832847_0000832847
+2025-07-11 05:55:38,940 - INFO - Processing folder: 10K_2011-04-26_000143774911002538 (CIK: 0000832847)
+2025-07-11 05:55:38,940 - INFO - → Processing: 10K_2011-04-26.html
+2025-07-11 05:55:39,065 - WARNING - No MD&A content found in HTML
+2025-07-11 05:55:39,065 - WARNING - ✗ No MD&A found in HTML: 10K_2011-04-26.html
+2025-07-11 05:55:39,068 - INFO - → Processing: 10K_2011-04-26.txt
+2025-07-11 05:55:39,094 - WARNING - No Item 7 matches found in text
+2025-07-11 05:55:39,094 - WARNING - ✗ No MD&A found in TXT: 10K_2011-04-26.txt
+2025-07-11 05:55:39,095 - INFO - Processing folder: 10K_1996-04-01_000095016896000563 (CIK: 0000832847)
+2025-07-11 05:55:39,107 - INFO - → Processing: 10K_1996-04-01_raw.txt
+2025-07-11 05:55:39,554 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1996_04_01_mdna.txt
+2025-07-11 05:55:39,566 - INFO - → Processing: 10K_1996-04-01.txt
+2025-07-11 05:55:39,935 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1996_04_01_mdna.txt
+2025-07-11 05:55:39,935 - INFO - Processing folder: 10K_1996-06-03_000095016896000997 (CIK: 0000832847)
+2025-07-11 05:55:39,936 - INFO - → Processing: 10K_1996-06-03_raw.txt
+2025-07-11 05:55:39,943 - WARNING - No Item 7 matches found in text
+2025-07-11 05:55:39,943 - WARNING - ✗ No MD&A found in TXT: 10K_1996-06-03_raw.txt
+2025-07-11 05:55:39,944 - INFO - → Processing: 10K_1996-06-03.txt
+2025-07-11 05:55:39,949 - WARNING - No Item 7 matches found in text
+2025-07-11 05:55:39,949 - WARNING - ✗ No MD&A found in TXT: 10K_1996-06-03.txt
+2025-07-11 05:55:39,950 - INFO - Processing folder: 10K_1997-03-28_000095016897000758 (CIK: 0000832847)
+2025-07-11 05:55:39,958 - INFO - → Processing: 10K_1997-03-28_raw.txt
+2025-07-11 05:55:40,191 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1997_03_28_mdna.txt
+2025-07-11 05:55:40,199 - INFO - → Processing: 10K_1997-03-28.txt
+2025-07-11 05:55:40,398 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1997_03_28_mdna.txt
+2025-07-11 05:55:40,399 - INFO - Processing folder: 10K_1998-03-31_000095016898000984 (CIK: 0000832847)
+2025-07-11 05:55:40,408 - INFO - → Processing: 10K_1998-03-31_raw.txt
+2025-07-11 05:55:40,558 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1998_03_31_mdna.txt
+2025-07-11 05:55:40,566 - INFO - → Processing: 10K_1998-03-31.txt
+2025-07-11 05:55:40,711 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1998_03_31_mdna.txt
+2025-07-11 05:55:40,712 - INFO - Processing folder: 10K_1999-03-31_000095016899001040 (CIK: 0000832847)
+2025-07-11 05:55:40,720 - INFO - → Processing: 10K_1999-03-31_raw.txt
+2025-07-11 05:55:40,911 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1999_03_31_mdna.txt
+2025-07-11 05:55:40,921 - INFO - → Processing: 10K_1999-03-31.txt
+2025-07-11 05:55:41,085 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_1999_03_31_mdna.txt
+2025-07-11 05:55:41,087 - INFO - Processing folder: 10K_2000-03-30_000095016800000853 (CIK: 0000832847)
+2025-07-11 05:55:41,097 - INFO - → Processing: 10K_2000-03-30_raw.txt
+2025-07-11 05:55:41,244 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2000_03_30_mdna.txt
+2025-07-11 05:55:41,252 - INFO - → Processing: 10K_2000-03-30.txt
+2025-07-11 05:55:41,384 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2000_03_30_mdna.txt
+2025-07-11 05:55:41,385 - INFO - Processing folder: 10K_2001-03-29_000095016801000622 (CIK: 0000832847)
+2025-07-11 05:55:41,394 - INFO - → Processing: 10K_2001-03-29_raw.txt
+2025-07-11 05:55:41,544 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2001_03_29_mdna.txt
+2025-07-11 05:55:41,552 - INFO - → Processing: 10K_2001-03-29.txt
+2025-07-11 05:55:41,684 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2001_03_29_mdna.txt
+2025-07-11 05:55:41,685 - INFO - Processing folder: 10K_2002-03-28_000102140802004282 (CIK: 0000832847)
+2025-07-11 05:55:41,692 - INFO - → Processing: 10K_2002-03-28_raw.txt
+2025-07-11 05:55:41,829 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2002_03_28_mdna.txt
+2025-07-11 05:55:41,835 - INFO - → Processing: 10K_2002-03-28.txt
+2025-07-11 05:55:41,948 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2002_03_28_mdna.txt
+2025-07-11 05:55:41,949 - INFO - Processing folder: 10K_2003-03-31_000102140803005367 (CIK: 0000832847)
+2025-07-11 05:55:41,958 - INFO - → Processing: 10K_2003-03-31_raw.txt
+2025-07-11 05:55:42,189 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2003_03_31_mdna.txt
+2025-07-11 05:55:42,197 - INFO - → Processing: 10K_2003-03-31.txt
+2025-07-11 05:55:42,379 - INFO - ✓ Extracted TXT MD&A → 0000832847_10-K_2003_03_31_mdna.txt
+2025-07-11 05:55:42,379 - INFO - Processing folder: 10K_2004-01-07_000119312504001606 (CIK: 0000832847)
+2025-07-11 05:55:42,388 - INFO - → Processing: 10K_2004-01-07_raw.txt
+2025-07-11 05:55:42,593 - ERROR - ‼ Error processing 10K_2004-01-07_raw.txt: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2004_01_07_mdna.txt'
+2025-07-11 05:55:42,611 - INFO - → Processing: 10K_2004-01-07.txt
+2025-07-11 05:55:42,786 - ERROR - ‼ Error processing 10K_2004-01-07.txt: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2004_01_07_mdna.txt'
+2025-07-11 05:55:42,788 - INFO - Processing folder: 10K_2004-03-26_000126645404000019 (CIK: 0000832847)
+2025-07-11 05:55:42,788 - INFO - → Processing: 10K_2004-03-26.html
+2025-07-11 05:55:45,179 - INFO - Found 45 tables in MD&A section (all preserved)
+2025-07-11 05:55:46,919 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2004_03_26_mdna.pdf
+2025-07-11 05:55:46,927 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2004-03-26.txt
+2025-07-11 05:55:46,927 - INFO - Processing folder: 10K_2005-03-28_000126645405000046 (CIK: 0000832847)
+2025-07-11 05:55:46,927 - INFO - → Processing: 10K_2005-03-28.html
+2025-07-11 05:55:49,492 - INFO - Found 34 tables in MD&A section (all preserved)
+2025-07-11 05:55:51,521 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2005_03_28_mdna.pdf
+2025-07-11 05:55:51,529 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2005-03-28.txt
+2025-07-11 05:55:51,530 - INFO - Processing folder: 10K_2006-03-29_000126645406000142 (CIK: 0000832847)
+2025-07-11 05:55:51,530 - INFO - → Processing: 10K_2006-03-29.html
+2025-07-11 05:55:55,040 - INFO - Found 89 tables in MD&A section (all preserved)
+2025-07-11 05:55:57,932 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2006_03_29_mdna.pdf
+2025-07-11 05:55:57,941 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2006-03-29.txt
+2025-07-11 05:55:57,943 - INFO - Processing folder: 10K_2007-03-26_000126645407000147 (CIK: 0000832847)
+2025-07-11 05:55:57,943 - INFO - → Processing: 10K_2007-03-26.html
+2025-07-11 05:56:02,091 - INFO - Found 90 tables in MD&A section (all preserved)
+2025-07-11 05:56:06,148 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2007_03_26_mdna.pdf
+2025-07-11 05:56:06,157 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2007-03-26.txt
+2025-07-11 05:56:06,158 - INFO - Processing folder: 10K_2008-03-24_000126645408000216 (CIK: 0000832847)
+2025-07-11 05:56:06,158 - INFO - → Processing: 10K_2008-03-24.html
+2025-07-11 05:56:08,579 - INFO - Found 0 tables in MD&A section (all preserved)
+2025-07-11 05:56:09,278 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2008_03_24_mdna.pdf
+2025-07-11 05:56:09,287 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2008-03-24.txt
+2025-07-11 05:56:09,288 - INFO - Processing folder: 10K_2008-03-31_000126645408000229 (CIK: 0000832847)
+2025-07-11 05:56:09,288 - INFO - → Processing: 10K_2008-03-31.html
+2025-07-11 05:56:11,736 - INFO - Found 0 tables in MD&A section (all preserved)
+2025-07-11 05:56:12,292 - ERROR - PDF generation failed for 10K_2008-03-31.html: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-07-11 05:56:12,292 - ERROR - ‼ Error processing 10K_2008-03-31.html: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2008_03_31_mdna.html'
+2025-07-11 05:56:12,314 - INFO - → Processing: 10K_2008-03-31.txt
+2025-07-11 05:56:12,485 - ERROR - ‼ Error processing 10K_2008-03-31.txt: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2008_03_31_mdna.txt'
+2025-07-11 05:56:12,486 - INFO - Processing folder: 10K_2009-03-18_000143774909000266 (CIK: 0000832847)
+2025-07-11 05:56:12,487 - INFO - → Processing: 10K_2009-03-18.html
+2025-07-11 05:56:15,071 - INFO - Found 0 tables in MD&A section (all preserved)
+2025-07-11 05:56:15,861 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2009_03_18_mdna.pdf
+2025-07-11 05:56:15,871 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2009-03-18.txt
+2025-07-11 05:56:15,872 - INFO - Processing folder: 10K_2009-08-10_000143774909000921 (CIK: 0000832847)
+2025-07-11 05:56:15,872 - INFO - → Processing: 10K_2009-08-10.html
+2025-07-11 05:56:18,439 - INFO - Found 0 tables in MD&A section (all preserved)
+2025-07-11 05:56:18,960 - ERROR - PDF generation failed for 10K_2009-08-10.html: wkhtmltopdf exited with non-zero code 1. error:
+QPainter::begin(): Returned false
+Exit with code 1, due to unknown error.
+
+2025-07-11 05:56:18,960 - ERROR - ‼ Error processing 10K_2009-08-10.html: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2009_08_10_mdna.html'
+2025-07-11 05:56:18,982 - INFO - → Processing: 10K_2009-08-10.txt
+2025-07-11 05:56:19,189 - ERROR - ‼ Error processing 10K_2009-08-10.txt: [Errno 2] No such file or directory: 'D:\\10-k forms\\MDNA_EXTRACTED\\0000832847_10-K\\A_2009_08_10_mdna.txt'
+2025-07-11 05:56:19,190 - INFO - Processing folder: 10K_2010-03-19_000143774910000741 (CIK: 0000832847)
+2025-07-11 05:56:19,190 - INFO - → Processing: 10K_2010-03-19.html
+2025-07-11 05:56:23,760 - INFO - Found 70 tables in MD&A section (all preserved)
+2025-07-11 05:56:26,884 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2010_03_19_mdna.pdf
+2025-07-11 05:56:26,895 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2010-03-19.txt
+2025-07-11 05:56:26,896 - INFO - Processing folder: 10K_2011-03-21_000143774911001628 (CIK: 0000832847)
+2025-07-11 05:56:26,897 - INFO - → Processing: 10K_2011-03-21.html
+2025-07-11 05:56:31,785 - INFO - Found 93 tables in MD&A section (all preserved)
+2025-07-11 05:56:34,866 - INFO - ✓ Extracted PDF MD&A → 0000832847_10-K_2011_03_21_mdna.pdf
+2025-07-11 05:56:34,878 - INFO - ⚠ Skipping TXT file, HTML version already processed: 10K_2011-03-21.txt
+2025-07-11 05:56:34,885 - INFO - Processing complete. Files processed: 34, Errors: 0, Skipped: 8
+2025-07-11 05:56:34,885 - INFO - ✓ Extraction complete.

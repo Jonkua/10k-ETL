@@ -1,0 +1,118 @@
+# SEC EDGAR ETL by SIC Code
+
+An enhanced version of the SEC EDGAR 10-K filings ETL project that searches and processes companies by SIC (Standard Industrial Classification) codes instead of individual tickers. This allows for bulk processing of entire industry sectors.
+
+## Overview
+
+This project automates the extraction, transformation, and loading (ETL) of financial data from SEC EDGAR filings, specifically targeting the Management's Discussion and Analysis (MDA) section from 10-K reports. Instead of processing individual tickers, it processes all companies within specified SIC codes.
+
+## Key Features
+
+- **SIC Code-based Search**: Process entire industry sectors by SIC code
+- **Automated Batch Processing**: Efficiently handle hundreds of companies per SIC code
+- **Concurrent Processing**: Multi-threaded architecture for faster processing
+- **MDA Section Extraction**: Targeted extraction of Management's Discussion and Analysis
+- **Comprehensive Logging**: Detailed progress tracking and error reporting
+- **Rate Limiting**: Compliant with SEC EDGAR rate limits
+- **Data Caching**: Intelligent caching to minimize API calls
+- **Summary Reports**: Detailed processing summaries by SIC code
+
+## SIC Code Examples
+
+Common SIC codes for technology companies:
+- **3571**: Electronic Computers (Apple, HP, Dell)
+- **7372**: Prepackaged Software (Microsoft, Adobe, Salesforce)
+- **3674**: Semiconductors (Intel, AMD, NVIDIA)
+- **3661**: Telephone and Telegraph Apparatus (Cisco, Qualcomm)
+- **4813**: Telephone Communications (AT&T, Verizon)
+- **7370**: Computer Programming and Data Processing
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/sec-edgar-sic-etl.git
+cd sec-edgar-sic-etl
+```
+
+2. Create a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## Project Structure
+
+```
+sec-edgar-sic-etl/
+├── scrape_by_sic.py              # Main script for SIC-based processing
+├── requirements.txt              # Python dependencies
+├── utils/
+│   ├── get_companies_by_sic.py   # SIC code company lookup
+│   ├── get_ticker_10k_filings.py # Download 10-K filings
+│   ├── processing/
+│   │   ├── process_single_ticker.py
+│   │   ├── process_html_file.py
+│   │   └── process_ticker_10k_data.py
+│   ├── data_extraction/
+│   │   └── extract_mda_section.py
+│   ├── file_operations/
+│   │   ├── TickerFilesCollector.py
+│   │   ├── collect_ticker_files.py
+│   │   └── delete_txt_files.py
+│   └── helpers/
+│       ├── initialize_status_file.py
+│       ├── update_status_file.py
+│       ├── write_to_master_file.py
+│       └── delete_processed_folder.py
+├── data/                         # Temporary storage for downloads
+├── sic_data/                     # SIC-specific output data
+├── ticker_data/                  # Processed ticker data
+└── cache/                        # Cached company listings
+
+```
+
+## Usage
+
+### Basic Usage
+
+Process companies in specific SIC codes:
+
+```python
+from scrape_by_sic import SECEdgarSICProcessor
+
+# Process software companies (SIC 7372) and computer manufacturers (SIC 3571)
+processor = SECEdgarSICProcessor(
+    sic_codes=[7372, 3571],
+    start_date="2022-01-01",
+    end_date="2024-12-31"
+)
+
+processor.process_all_sic_codes()
+```
+
+### Command Line Usage
+
+Edit the `scrape_by_sic.py` file to specify your desired SIC codes:
+
+```python
+# In main() function
+sic_codes = [3571, 7372]  # Modify this list
+start_date = "2022-01-01"
+end_date = "2024-12-31"
+```
+
+Then run:
+
+```bash
+python scrape_by_sic.py
+```
+
+### Advanced Configuration
+
+```

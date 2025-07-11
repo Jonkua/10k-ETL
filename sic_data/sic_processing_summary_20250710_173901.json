@@ -1,0 +1,4643 @@
+{
+  "sic_codes": [
+    "6021"
+  ],
+  "date_range": {
+    "start": "1994-01-01",
+    "end": "2024-12-31"
+  },
+  "total_companies": 661,
+  "successful": 0,
+  "failed": 661,
+  "require_ticker": false,
+  "use_cik": true,
+  "results": [
+    {
+      "cik": "0001168230",
+      "ticker": "1ST",
+      "company_name": "1ST COLONIAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001435161",
+      "ticker": "AB&T",
+      "company_name": "AB&T Financial CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000356809",
+      "ticker": "",
+      "company_name": "ABIGAIL ADAMS NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001064025",
+      "ticker": "AF",
+      "company_name": "AF FINANCIAL GROUP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001144515",
+      "ticker": "AJS",
+      "company_name": "AJS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001576336",
+      "ticker": "AJS",
+      "company_name": "AJS Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000903419",
+      "ticker": "",
+      "company_name": "ALERUS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000703970",
+      "ticker": "",
+      "company_name": "ALLEGIANT BANCORP INC/MO/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036510",
+      "ticker": "",
+      "company_name": "ALLFIRST FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001093414",
+      "ticker": "",
+      "company_name": "ALLFIRST PREFERRED CAPITAL TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001140472",
+      "ticker": "",
+      "company_name": "ALLIANCE BANCSHARES CALIFORNIA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001275140",
+      "ticker": "",
+      "company_name": "ALLIANCE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001181001",
+      "ticker": "",
+      "company_name": "ALLIANCE BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000796317",
+      "ticker": "",
+      "company_name": "ALLIANCE FINANCIAL CORP /NY/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001259339",
+      "ticker": "",
+      "company_name": "ALLIED BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000702904",
+      "ticker": "",
+      "company_name": "AMBANC CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000714756",
+      "ticker": "",
+      "company_name": "AMCORE FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027258",
+      "ticker": "AMEGY",
+      "company_name": "AMEGY BANCORPORATION, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001213219",
+      "ticker": "",
+      "company_name": "AMERICAN BANK HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001163747",
+      "ticker": "",
+      "company_name": "AMERICAN BANK INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000741516",
+      "ticker": "",
+      "company_name": "AMERICAN NATIONAL BANKSHARES INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000824906",
+      "ticker": "",
+      "company_name": "AMERICORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000707605",
+      "ticker": "",
+      "company_name": "AMERISERV FINANCIAL INC /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001132651",
+      "ticker": "AMES",
+      "company_name": "AMES NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000760992",
+      "ticker": "ANB",
+      "company_name": "ANB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001041429",
+      "ticker": "",
+      "company_name": "ANNAPOLIS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000717538",
+      "ticker": "ARROW",
+      "company_name": "ARROW FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000840016",
+      "ticker": "",
+      "company_name": "ATCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001734342",
+      "ticker": "",
+      "company_name": "Amerant Bancorp Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001169770",
+      "ticker": "BANC",
+      "company_name": "BANC OF CALIFORNIA, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036090",
+      "ticker": "BANC",
+      "company_name": "BANC ONE CORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000760498",
+      "ticker": "",
+      "company_name": "BANCFIRST CORP /OK/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000868572",
+      "ticker": "",
+      "company_name": "BANCFIRST OHIO CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001109525",
+      "ticker": "",
+      "company_name": "BANCORP RHODE ISLAND INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000783739",
+      "ticker": "",
+      "company_name": "BANCTRUST FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000070858",
+      "ticker": "BANK",
+      "company_name": "BANK OF AMERICA CORP /DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001082368",
+      "ticker": "BANK",
+      "company_name": "BANK OF FLORIDA CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000071322",
+      "ticker": "BANK",
+      "company_name": "BANK OF NEW ENGLAND CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001088801",
+      "ticker": "BANK",
+      "company_name": "BANK ONE CAPITAL II",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001088804",
+      "ticker": "BANK",
+      "company_name": "BANK ONE CAPITAL V",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001067092",
+      "ticker": "BANK",
+      "company_name": "BANK ONE CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000039394",
+      "ticker": "BANK",
+      "company_name": "BANK SOUTH CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000009672",
+      "ticker": "",
+      "company_name": "BANKAMERICA CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036672",
+      "ticker": "",
+      "company_name": "BANKBOSTON CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000824719",
+      "ticker": "",
+      "company_name": "BANKFIRST CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000941622",
+      "ticker": "",
+      "company_name": "BANKILLINOIS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000851105",
+      "ticker": "",
+      "company_name": "BANKNORTH GROUP INC /NEW/ /DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000709335",
+      "ticker": "BATH",
+      "company_name": "BATH NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001046406",
+      "ticker": "BAY",
+      "company_name": "BAY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001089787",
+      "ticker": "BAY",
+      "company_name": "BAY NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001143881",
+      "ticker": "BB&T",
+      "company_name": "BB&T CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001409775",
+      "ticker": "BBVA",
+      "company_name": "BBVA USA Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000949228",
+      "ticker": "BEACH",
+      "company_name": "BEACH FIRST NATIONAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000726294",
+      "ticker": "",
+      "company_name": "BELMONT BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000742275",
+      "ticker": "",
+      "company_name": "BEVERLY NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000757546",
+      "ticker": "",
+      "company_name": "BILTMORE BANK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001099569",
+      "ticker": "",
+      "company_name": "BIOTECH HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001210227",
+      "ticker": "BNC",
+      "company_name": "BNC BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000945434",
+      "ticker": "",
+      "company_name": "BNCCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000040454",
+      "ticker": "",
+      "company_name": "BOATMENS BANCSHARES INC /MO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000230072",
+      "ticker": "",
+      "company_name": "BOATMENS NATIONAL BANK OF ST LOUIS",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001109848",
+      "ticker": "BOE",
+      "company_name": "BOE FINANCIAL SERVICES OF VIRGINIA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000875357",
+      "ticker": "BOK",
+      "company_name": "BOK FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001172229",
+      "ticker": "",
+      "company_name": "BOTETOURT BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000846616",
+      "ticker": "",
+      "company_name": "BREMER FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000014060",
+      "ticker": "",
+      "company_name": "BRENTON BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000707604",
+      "ticker": "",
+      "company_name": "BRITTON & KOONTZ CAPITAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000703800",
+      "ticker": "BROAD",
+      "company_name": "BROAD NATIONAL BANCORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001108144",
+      "ticker": "",
+      "company_name": "BROADBAND HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001123841",
+      "ticker": "",
+      "company_name": "BUSINESS BANCORP /CA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001295401",
+      "ticker": "",
+      "company_name": "Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001746109",
+      "ticker": "",
+      "company_name": "Bank First Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001365997",
+      "ticker": "",
+      "company_name": "Bank of the Carolinas CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001393534",
+      "ticker": "",
+      "company_name": "Belvedere SoCal",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001354835",
+      "ticker": "",
+      "company_name": "Boardwalk Bancorp Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001304740",
+      "ticker": "",
+      "company_name": "Bridge Capital Holdings",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001964333",
+      "ticker": "",
+      "company_name": "Burke & Herbert Financial Services Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000742054",
+      "ticker": "",
+      "company_name": "CADENCE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000318779",
+      "ticker": "",
+      "company_name": "CALIFORNIA BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094893",
+      "ticker": "",
+      "company_name": "CALIFORNIA COMMUNITY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000803016",
+      "ticker": "",
+      "company_name": "CALIFORNIA FIRST NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001257580",
+      "ticker": "",
+      "company_name": "CALWEST BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000750686",
+      "ticker": "",
+      "company_name": "CAMDEN NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000759458",
+      "ticker": "",
+      "company_name": "CANANDAIGUA NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001136303",
+      "ticker": "",
+      "company_name": "CAPITAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000837858",
+      "ticker": "",
+      "company_name": "CAPITAL HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000927628",
+      "ticker": "",
+      "company_name": "CAPITAL ONE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000840264",
+      "ticker": "",
+      "company_name": "CAPITOL BANCORP LTD",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000874481",
+      "ticker": "",
+      "company_name": "CARDINAL BANCORP INC /PA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000888184",
+      "ticker": "",
+      "company_name": "CARDINAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001060523",
+      "ticker": "",
+      "company_name": "CARDINAL FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000753745",
+      "ticker": "",
+      "company_name": "CARLINVILLE NATIONAL BANK SHARES INC/DE",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000915277",
+      "ticker": "",
+      "company_name": "CARNEGIE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001157648",
+      "ticker": "",
+      "company_name": "CAROLINA NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094059",
+      "ticker": "CB&T",
+      "company_name": "CB&T HOLDING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001074972",
+      "ticker": "CCBT",
+      "company_name": "CCBT FINANCIAL COMPANIES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001099932",
+      "ticker": "",
+      "company_name": "CENTRA FINANCIAL HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000276235",
+      "ticker": "",
+      "company_name": "CENTRAL FIDELITY BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001172353",
+      "ticker": "",
+      "company_name": "CENTRAL JERSEY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001019650",
+      "ticker": "",
+      "company_name": "CENTRUE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000785813",
+      "ticker": "",
+      "company_name": "CENTURY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000820414",
+      "ticker": "",
+      "company_name": "CENTURY FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000357105",
+      "ticker": "",
+      "company_name": "CENTURY SOUTH BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001492654",
+      "ticker": "",
+      "company_name": "CERTUSHOLDINGS, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001070680",
+      "ticker": "CF",
+      "company_name": "CF BANKSHARES INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001392272",
+      "ticker": "CHAIN",
+      "company_name": "CHAIN BRIDGE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000819692",
+      "ticker": "",
+      "company_name": "CHARTER ONE FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000019489",
+      "ticker": "CHASE",
+      "company_name": "CHASE MANHATTAN CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001077535",
+      "ticker": "",
+      "company_name": "CHEROKEE BANKING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000847538",
+      "ticker": "",
+      "company_name": "CHESAPEAKE FINANCIAL SHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001132515",
+      "ticker": "",
+      "company_name": "CHESTERFIELD FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001248124",
+      "ticker": "",
+      "company_name": "CHEVIOT FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001171825",
+      "ticker": "CIT",
+      "company_name": "CIT GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000715991",
+      "ticker": "CITI",
+      "company_name": "CITI BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000020405",
+      "ticker": "",
+      "company_name": "CITICORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000831001",
+      "ticker": "",
+      "company_name": "CITIGROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001273805",
+      "ticker": "",
+      "company_name": "CITIZENS COMMUNITY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001049489",
+      "ticker": "",
+      "company_name": "CITIZENS EFFINGHAM BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000764156",
+      "ticker": "",
+      "company_name": "CITIZENS FINANCIAL CORP/DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000702163",
+      "ticker": "",
+      "company_name": "CITIZENS FIRST BANCORP INC /NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001073475",
+      "ticker": "",
+      "company_name": "CITIZENS FIRST CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000351077",
+      "ticker": "",
+      "company_name": "CITIZENS REPUBLIC BANCORP, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000852616",
+      "ticker": "",
+      "company_name": "CITRUS FINANCIAL SERVICES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000726854",
+      "ticker": "CITY",
+      "company_name": "CITY HOLDING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000201461",
+      "ticker": "CITY",
+      "company_name": "CITY NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001068366",
+      "ticker": "",
+      "company_name": "CLARKSTON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001144514",
+      "ticker": "",
+      "company_name": "CLOVER LEAF FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001014273",
+      "ticker": "CN",
+      "company_name": "CN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000839928",
+      "ticker": "CNB",
+      "company_name": "CNB BANCORP INC /NY/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001162638",
+      "ticker": "CNB",
+      "company_name": "CNB BANCORP INC/VA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000779125",
+      "ticker": "CNB",
+      "company_name": "CNB CORP /MI/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000764581",
+      "ticker": "CNB",
+      "company_name": "CNB CORP /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000852618",
+      "ticker": "CNB",
+      "company_name": "CNB FLORIDA BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001345622",
+      "ticker": "CNB",
+      "company_name": "CNB Financial Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000912566",
+      "ticker": "CNB",
+      "company_name": "CNB HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001050078",
+      "ticker": "CNBC",
+      "company_name": "CNBC BANCORP /OH",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001058995",
+      "ticker": "CNBT",
+      "company_name": "CNBT BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001141575",
+      "ticker": "COAST",
+      "company_name": "COAST BANCORP/CA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001093897",
+      "ticker": "",
+      "company_name": "COASTAL BANKING CO INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001028734",
+      "ticker": "COBIZ",
+      "company_name": "COBIZ FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001115191",
+      "ticker": "",
+      "company_name": "COLORADO BUSINESS BANKSHARES CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000028412",
+      "ticker": "",
+      "company_name": "COMERICA INC /NEW/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000715096",
+      "ticker": "",
+      "company_name": "COMMERCE BANCORP INC /NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000773319",
+      "ticker": "",
+      "company_name": "COMMERCE NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001098813",
+      "ticker": "",
+      "company_name": "COMMERCEFIRST BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000726738",
+      "ticker": "",
+      "company_name": "COMMERCIAL BANCSHARES INC /WV/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000835012",
+      "ticker": "",
+      "company_name": "COMMONWEALTH BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000718413",
+      "ticker": "",
+      "company_name": "COMMUNITY BANCORP /VT",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001089503",
+      "ticker": "",
+      "company_name": "COMMUNITY BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000742170",
+      "ticker": "",
+      "company_name": "COMMUNITY BANCORP INC /MA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000867241",
+      "ticker": "",
+      "company_name": "COMMUNITY BANCSHARES INC /NC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001180050",
+      "ticker": "",
+      "company_name": "COMMUNITY BANCSHARES OF WEST GEORGIA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000714710",
+      "ticker": "",
+      "company_name": "COMMUNITY BANKS INC /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001273555",
+      "ticker": "",
+      "company_name": "COMMUNITY BANKS OF GEORGIA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001074369",
+      "ticker": "",
+      "company_name": "COMMUNITY CAPITAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000832847",
+      "ticker": "",
+      "company_name": "COMMUNITY CAPITAL CORP /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001174786",
+      "ticker": "",
+      "company_name": "COMMUNITY FINANCIAL HOLDING CO INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000872401",
+      "ticker": "",
+      "company_name": "COMMUNITY FINANCIAL HOLDING CORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000723188",
+      "ticker": "",
+      "company_name": "COMMUNITY FINANCIAL SYSTEM, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001176266",
+      "ticker": "",
+      "company_name": "COMMUNITY FIRST FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000760993",
+      "ticker": "",
+      "company_name": "COMMUNITY INDEPENDENT BANK INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000855386",
+      "ticker": "",
+      "company_name": "COMMUNITY NATIONAL BANCORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001124184",
+      "ticker": "",
+      "company_name": "COMMUNITY NATIONAL CORP /OH",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001020347",
+      "ticker": "",
+      "company_name": "COMMUNITYCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000018568",
+      "ticker": "",
+      "company_name": "COMPASS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000823246",
+      "ticker": "",
+      "company_name": "COMSOUTH BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001006830",
+      "ticker": "",
+      "company_name": "CONSUMERS BANCORP INC /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000024058",
+      "ticker": "",
+      "company_name": "CONTINENTAL BANK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000069952",
+      "ticker": "",
+      "company_name": "CORESTATES FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001079385",
+      "ticker": "",
+      "company_name": "CORNERSTONE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001087455",
+      "ticker": "",
+      "company_name": "CORNERSTONE BANCORP/SC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000051939",
+      "ticker": "CORUS",
+      "company_name": "CORUS BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000885694",
+      "ticker": "",
+      "company_name": "COVEST BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094061",
+      "ticker": "",
+      "company_name": "CRESCENT CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000101880",
+      "ticker": "",
+      "company_name": "CRESTAR FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000356050",
+      "ticker": "CU",
+      "company_name": "CU BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001543643",
+      "ticker": "CU",
+      "company_name": "CU Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000039263",
+      "ticker": "",
+      "company_name": "CULLEN/FROST BANKERS, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000757790",
+      "ticker": "",
+      "company_name": "CUPERTINO NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001614184",
+      "ticker": "",
+      "company_name": "Cadence Bancorporation",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001795815",
+      "ticker": "",
+      "company_name": "California BanCorp \\ CA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001363569",
+      "ticker": "",
+      "company_name": "Canyon Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001334872",
+      "ticker": "",
+      "company_name": "Cape Fear Bank CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001419536",
+      "ticker": "",
+      "company_name": "Capital Bancorp Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001479750",
+      "ticker": "",
+      "company_name": "Capital Bank Financial Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001829576",
+      "ticker": "",
+      "company_name": "Carter Bankshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001102266",
+      "ticker": "",
+      "company_name": "CenterState Bank Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001365794",
+      "ticker": "",
+      "company_name": "Chino Commercial Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001300335",
+      "ticker": "",
+      "company_name": "Coastal Bancshares Acquisition Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001437213",
+      "ticker": "",
+      "company_name": "Coastal Carolina Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001317019",
+      "ticker": "",
+      "company_name": "Colonial Bankshares Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001304366",
+      "ticker": "",
+      "company_name": "Community Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000764811",
+      "ticker": "",
+      "company_name": "CommunityOne Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001295879",
+      "ticker": "",
+      "company_name": "CommunitySouth Financial CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001448324",
+      "ticker": "",
+      "company_name": "Cornerstone Financial Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001267970",
+      "ticker": "",
+      "company_name": "DEKALB BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000763827",
+      "ticker": "",
+      "company_name": "DELAWARE NATIONAL BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000706343",
+      "ticker": "DELTA",
+      "company_name": "DELTA NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000028209",
+      "ticker": "",
+      "company_name": "DEPOSIT GUARANTY CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000713671",
+      "ticker": "DNB",
+      "company_name": "DNB FINANCIAL CORP /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000846617",
+      "ticker": "",
+      "company_name": "Dime Community Bancshares, Inc. /NY/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001313868",
+      "ticker": "",
+      "company_name": "Discovery Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001101146",
+      "ticker": "EAGLE",
+      "company_name": "EAGLE BANCORP/MT",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001050725",
+      "ticker": "EBANK",
+      "company_name": "EBANK FINANCIAL SERVICES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000818633",
+      "ticker": "",
+      "company_name": "ELDORADO BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000858800",
+      "ticker": "",
+      "company_name": "EMCLAIRE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000810830",
+      "ticker": "",
+      "company_name": "EMPIRE BANC CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001437479",
+      "ticker": "ENB",
+      "company_name": "ENB Financial Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001129492",
+      "ticker": "",
+      "company_name": "EUROPE 2001 HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000842518",
+      "ticker": "EVANS",
+      "company_name": "EVANS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000351521",
+      "ticker": "",
+      "company_name": "EVERGREEN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000930199",
+      "ticker": "",
+      "company_name": "EVERGREEN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001088514",
+      "ticker": "",
+      "company_name": "EVERTRUST FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001319327",
+      "ticker": "",
+      "company_name": "Encore Bancshares Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000034125",
+      "ticker": "F&M",
+      "company_name": "F&M NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001085913",
+      "ticker": "",
+      "company_name": "FARMERS & MERCHANTS BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000713095",
+      "ticker": "",
+      "company_name": "FARMERS CAPITAL BANK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700850",
+      "ticker": "",
+      "company_name": "FARMERS NATIONAL BANCORP /MD/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700946",
+      "ticker": "",
+      "company_name": "FARMERS NATIONAL BANCORP INC /DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001143158",
+      "ticker": "FCB",
+      "company_name": "FCB FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001476651",
+      "ticker": "FCB",
+      "company_name": "FCB FINANCIAL HOLDINGS, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001360581",
+      "ticker": "FGBC",
+      "company_name": "FGBC Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001098151",
+      "ticker": "",
+      "company_name": "FIDELITY D & D BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000862831",
+      "ticker": "",
+      "company_name": "FINANCIAL INSTITUTIONS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000702508",
+      "ticker": "",
+      "company_name": "FINANCIAL TRUST CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036068",
+      "ticker": "FIRST",
+      "company_name": "FIRST AMERICAN CORP /TN/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000947559",
+      "ticker": "FIRST",
+      "company_name": "FIRST BANCSHARES INC /MS/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000310979",
+      "ticker": "FIRST",
+      "company_name": "FIRST BANKS AMERICA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001075705",
+      "ticker": "FIRST",
+      "company_name": "FIRST CAPITAL BANCSHARES INC /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001074560",
+      "ticker": "FIRST",
+      "company_name": "FIRST CAPITAL BANK HOLDING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001124676",
+      "ticker": "FIRST",
+      "company_name": "FIRST CENTURY BANCORP.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000717306",
+      "ticker": "FIRST",
+      "company_name": "FIRST CHARTER CORP /NC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000744126",
+      "ticker": "FIRST",
+      "company_name": "FIRST CHESTER COUNTY CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036161",
+      "ticker": "FIRST",
+      "company_name": "FIRST CHICAGO CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000070040",
+      "ticker": "FIRST",
+      "company_name": "FIRST CHICAGO NBD CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000826328",
+      "ticker": "FIRST",
+      "company_name": "FIRST CITIZENS BANCSTOCK INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001013047",
+      "ticker": "FIRST",
+      "company_name": "FIRST CITY LIQUIDATING TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001073932",
+      "ticker": "FIRST",
+      "company_name": "FIRST COASTAL BANCSHARES",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000714719",
+      "ticker": "FIRST",
+      "company_name": "FIRST COLONIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000768532",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMERCE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001141045",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMERCE CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036204",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMERCE CORP /LA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000316769",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMERCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000712537",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMONWEALTH FINANCIAL CORP /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000763293",
+      "ticker": "FIRST",
+      "company_name": "FIRST COMMUNITY FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000278138",
+      "ticker": "FIRST",
+      "company_name": "FIRST EVERGREEN CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001100553",
+      "ticker": "FIRST",
+      "company_name": "FIRST FEDERAL OF OLATHE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000823870",
+      "ticker": "FIRST",
+      "company_name": "FIRST FIDELITY BANCORPORATION /NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000708955",
+      "ticker": "FIRST",
+      "company_name": "FIRST FINANCIAL BANCORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036966",
+      "ticker": "FIRST",
+      "company_name": "FIRST HORIZON CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000745140",
+      "ticker": "FIRST",
+      "company_name": "FIRST INDEPENDENCE CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000105982",
+      "ticker": "FIRST",
+      "company_name": "FIRST INTERSTATE BANCORP /DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000885979",
+      "ticker": "FIRST",
+      "company_name": "FIRST IPSWICH BANCORP /MA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000756899",
+      "ticker": "FIRST",
+      "company_name": "FIRST KNOX BANC CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000741562",
+      "ticker": "FIRST",
+      "company_name": "FIRST LIBERTY BANK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000840886",
+      "ticker": "FIRST",
+      "company_name": "FIRST LITCHFIELD FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000743397",
+      "ticker": "FIRST",
+      "company_name": "FIRST MCMINNVILLE CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000804128",
+      "ticker": "FIRST",
+      "company_name": "FIRST MERCHANTS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000712534",
+      "ticker": "FIRST",
+      "company_name": "FIRST MERCHANTS CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000702325",
+      "ticker": "FIRST",
+      "company_name": "FIRST MIDWEST BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001266099",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANC INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000351825",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANCORP /GA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000788783",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANCORP INC /IL/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001095274",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANCSHARES INC /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001067077",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANCSHARES INC/ FL/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000808364",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000814178",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700694",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL BANKSHARES INC/LA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036725",
+      "ticker": "FIRST",
+      "company_name": "FIRST NATIONAL OF NEBRASKA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001075602",
+      "ticker": "FIRST",
+      "company_name": "FIRST NBC CREDIT CARD MASTER TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001051741",
+      "ticker": "FIRST",
+      "company_name": "FIRST NIAGARA FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036703",
+      "ticker": "FIRST",
+      "company_name": "FIRST OF AMERICA BANK CORP /MI/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000740663",
+      "ticker": "FIRST",
+      "company_name": "FIRST OF LONG ISLAND CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000855645",
+      "ticker": "FIRST",
+      "company_name": "FIRST PATRIOT BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000779784",
+      "ticker": "FIRST",
+      "company_name": "FIRST PHILSON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000354706",
+      "ticker": "FIRST",
+      "company_name": "FIRST PULASKI NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001172102",
+      "ticker": "FIRST",
+      "company_name": "FIRST RELIANCE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001138817",
+      "ticker": "FIRST",
+      "company_name": "FIRST SECURITY GROUP INC/TN",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001156366",
+      "ticker": "FIRST",
+      "company_name": "FIRST SOUTHERN BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000820379",
+      "ticker": "FIRST",
+      "company_name": "FIRST UNITED BANCORPORATION /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000763907",
+      "ticker": "FIRST",
+      "company_name": "FIRST UNITED CORP/MD/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001137679",
+      "ticker": "FIRST",
+      "company_name": "FIRST WASHINGTON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000740876",
+      "ticker": "FIRST",
+      "company_name": "FIRST WESTERN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000037076",
+      "ticker": "",
+      "company_name": "FIRSTAR CORP /WI/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001011588",
+      "ticker": "",
+      "company_name": "FIRSTBANCORPORATION INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000074431",
+      "ticker": "",
+      "company_name": "FIRSTIER FINANCIAL INC /NE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000354869",
+      "ticker": "",
+      "company_name": "FIRSTMERIT CORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001709442",
+      "ticker": "",
+      "company_name": "FIRSTSUN CAPITAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001243496",
+      "ticker": "",
+      "company_name": "FLATBUSH FEDERAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027831",
+      "ticker": "FLEET",
+      "company_name": "FLEET CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027832",
+      "ticker": "FLEET",
+      "company_name": "FLEET CAPITAL TRUST II",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027833",
+      "ticker": "FLEET",
+      "company_name": "FLEET CAPITAL TRUST III",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027834",
+      "ticker": "FLEET",
+      "company_name": "FLEET CAPITAL TRUST IV",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001027835",
+      "ticker": "FLEET",
+      "company_name": "FLEET CAPITAL TRUST V",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000050341",
+      "ticker": "",
+      "company_name": "FLEETBOSTON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001058802",
+      "ticker": "",
+      "company_name": "FLORIDA BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001135374",
+      "ticker": "FMB",
+      "company_name": "FMB EQUIBANC INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001009162",
+      "ticker": "FNB",
+      "company_name": "FNB BANCSHARES INC /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000757262",
+      "ticker": "FNB",
+      "company_name": "FNB BANKING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001010961",
+      "ticker": "FNB",
+      "company_name": "FNB CORP \\VA\\",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000037808",
+      "ticker": "FNB",
+      "company_name": "FNB CORP/PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000820222",
+      "ticker": "FNB",
+      "company_name": "FNB FINANCIAL CORP /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000742679",
+      "ticker": "FNB",
+      "company_name": "FNB FINANCIAL SERVICES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000745087",
+      "ticker": "FNB",
+      "company_name": "FNB ROCHESTER CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001275867",
+      "ticker": "FNBG",
+      "company_name": "FNBG BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000943119",
+      "ticker": "FNBH",
+      "company_name": "FNBH BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000868573",
+      "ticker": "FNC",
+      "company_name": "FNC BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001035976",
+      "ticker": "FNCB",
+      "company_name": "FNCB Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000357269",
+      "ticker": "FORT",
+      "company_name": "FORT WAYNE NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000038475",
+      "ticker": "",
+      "company_name": "FOURTH FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001162245",
+      "ticker": "FPB",
+      "company_name": "FPB BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000875986",
+      "ticker": "",
+      "company_name": "FRANKLIN BANCORPORATION INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000846903",
+      "ticker": "",
+      "company_name": "FRANKLIN FINANCIAL CORP /TN/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000813964",
+      "ticker": "FRONT",
+      "company_name": "FRONT RANGE CAPITAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001059420",
+      "ticker": "",
+      "company_name": "FRONTIER NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000850626",
+      "ticker": "",
+      "company_name": "FULTON BANCSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700564",
+      "ticker": "",
+      "company_name": "FULTON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001105936",
+      "ticker": "",
+      "company_name": "FUTURUS FINANCIAL SERVICES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001057437",
+      "ticker": "FVNB",
+      "company_name": "FVNB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000765207",
+      "ticker": "",
+      "company_name": "First Bancorp, Inc /ME/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001283582",
+      "ticker": "",
+      "company_name": "First Clover Leaf Financial Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001128227",
+      "ticker": "",
+      "company_name": "First Federal of Northern Michigan Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001445059",
+      "ticker": "",
+      "company_name": "First Perry Bancorp, Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001156953",
+      "ticker": "",
+      "company_name": "GATEWAY FINANCIAL HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001034981",
+      "ticker": "GBB",
+      "company_name": "GBB CAPITAL I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001132242",
+      "ticker": "",
+      "company_name": "GEORGIAN BANCORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001136645",
+      "ticker": "GLOBE",
+      "company_name": "GLOBE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001015610",
+      "ticker": "GOLD",
+      "company_name": "GOLD BANC CORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000828749",
+      "ticker": "",
+      "company_name": "GOLDEN ISLES FINANCIAL HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001013044",
+      "ticker": "GRAND",
+      "company_name": "GRAND PREMIER FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000763850",
+      "ticker": "",
+      "company_name": "GRANGE NATIONAL BANC CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001088381",
+      "ticker": "GREAT",
+      "company_name": "GREAT WESTERN BANCORPORATION INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000775473",
+      "ticker": "",
+      "company_name": "GREATER BAY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001145547",
+      "ticker": "GREER",
+      "company_name": "GREER BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001058867",
+      "ticker": "",
+      "company_name": "GUARANTY BANCSHARES INC /TX/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001606363",
+      "ticker": "",
+      "company_name": "Green Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001109242",
+      "ticker": "HANMI",
+      "company_name": "HANMI FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000702902",
+      "ticker": "",
+      "company_name": "HARLEYSVILLE NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001107160",
+      "ticker": "",
+      "company_name": "HARLEYSVILLE SAVINGS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000805304",
+      "ticker": "",
+      "company_name": "HAWAII NATIONAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000893847",
+      "ticker": "",
+      "company_name": "HAWTHORN BANCSHARES, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001078676",
+      "ticker": "HCNB",
+      "company_name": "HCNB BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001073182",
+      "ticker": "",
+      "company_name": "HEARTLAND BANCSHARES INC/FL",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000878355",
+      "ticker": "",
+      "company_name": "HENDERSON CITIZENS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000843519",
+      "ticker": "",
+      "company_name": "HERITAGE BANCSHARES INC /FLA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001126679",
+      "ticker": "",
+      "company_name": "HERITAGE FINANCIAL HOLDING",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000047288",
+      "ticker": "",
+      "company_name": "HIBERNIA CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001161639",
+      "ticker": "HIGH",
+      "company_name": "HIGH STREET CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000355818",
+      "ticker": "",
+      "company_name": "HOMELAND BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001128361",
+      "ticker": "HOPE",
+      "company_name": "HOPE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000083246",
+      "ticker": "HSBC",
+      "company_name": "HSBC USA INC /MD/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000049196",
+      "ticker": "",
+      "company_name": "HUNTINGTON BANCSHARES INC /MD/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000861617",
+      "ticker": "HURON",
+      "company_name": "HURON NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001433540",
+      "ticker": "",
+      "company_name": "Home Federal Holdings CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001302369",
+      "ticker": "",
+      "company_name": "Hometown Community Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001013274",
+      "ticker": "IBW",
+      "company_name": "IBW FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000318870",
+      "ticker": "",
+      "company_name": "INDEPENDENT BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000846382",
+      "ticker": "",
+      "company_name": "INDIAN RIVER BANKING COMPANY",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001103764",
+      "ticker": "",
+      "company_name": "INTEGRITY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000755933",
+      "ticker": "",
+      "company_name": "INTERCHANGE FINANCIAL SERVICES CORP /NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000927807",
+      "ticker": "",
+      "company_name": "INTERVEST BANCSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001089857",
+      "ticker": "",
+      "company_name": "IPSWICH BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094484",
+      "ticker": "",
+      "company_name": "ISLANDS BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001311828",
+      "ticker": "",
+      "company_name": "Independence Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001357528",
+      "ticker": "",
+      "company_name": "Independent BancShares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001158197",
+      "ticker": "J",
+      "company_name": "J P MORGAN CHASE CAPITAL X",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000874495",
+      "ticker": "",
+      "company_name": "JEFFERSONVILLE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000019617",
+      "ticker": "",
+      "company_name": "JPMORGAN CHASE & CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001173376",
+      "ticker": "",
+      "company_name": "KENSINGTON BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036208",
+      "ticker": "",
+      "company_name": "KEYCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000091576",
+      "ticker": "",
+      "company_name": "KEYCORP /NEW/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000717809",
+      "ticker": "",
+      "company_name": "KEYSTONE FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000715366",
+      "ticker": "",
+      "company_name": "KEYSTONE HERITAGE GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001060455",
+      "ticker": "",
+      "company_name": "KILLBUCK BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000723878",
+      "ticker": "LAKE",
+      "company_name": "LAKE ARIEL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001141688",
+      "ticker": "",
+      "company_name": "LANDMARK BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000842898",
+      "ticker": "",
+      "company_name": "LANIER BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001074902",
+      "ticker": "LCNB",
+      "company_name": "LCNB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001057570",
+      "ticker": "",
+      "company_name": "LIBERTY BANCORP INC /NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000737287",
+      "ticker": "",
+      "company_name": "LIBERTY BANCORP INC /OK/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000316909",
+      "ticker": "",
+      "company_name": "LIBERTY NATIONAL BANCORP INC /KY/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001036757",
+      "ticker": "",
+      "company_name": "LIBERTY NATIONAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001358356",
+      "ticker": "",
+      "company_name": "LIMESTONE BANCORP, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001047125",
+      "ticker": "LOCAL",
+      "company_name": "LOCAL FINANCIAL CORP /NV",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001143848",
+      "ticker": "LSB",
+      "company_name": "LSB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001294206",
+      "ticker": "",
+      "company_name": "Lincoln Park Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000919162",
+      "ticker": "M&M",
+      "company_name": "M&M FINANCIAL CORP /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001141106",
+      "ticker": "",
+      "company_name": "MADISON BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036094",
+      "ticker": "MAGNA",
+      "company_name": "MAGNA GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000882859",
+      "ticker": "",
+      "company_name": "MAHONING NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000839688",
+      "ticker": "MAIN",
+      "company_name": "MAIN STREET BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001164290",
+      "ticker": "MAIN",
+      "company_name": "MAIN STREET BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094742",
+      "ticker": "",
+      "company_name": "MAINSTREET BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001047136",
+      "ticker": "",
+      "company_name": "MARINE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000062741",
+      "ticker": "",
+      "company_name": "MARSHALL & ILSLEY CORP/WI/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000742246",
+      "ticker": "",
+      "company_name": "MATEWAN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001139812",
+      "ticker": "MB",
+      "company_name": "MB FINANCIAL INC /MD",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000870517",
+      "ticker": "MBNA",
+      "company_name": "MBNA CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001118237",
+      "ticker": "MBT",
+      "company_name": "MBT FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000902789",
+      "ticker": "MCB",
+      "company_name": "MCB FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000064782",
+      "ticker": "",
+      "company_name": "MELLON FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000317598",
+      "ticker": "",
+      "company_name": "MELLON FUNDING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000064907",
+      "ticker": "",
+      "company_name": "MERCANTILE BANCORPORATION INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000707817",
+      "ticker": "",
+      "company_name": "MERCHANTS BANCORP INC/DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001024724",
+      "ticker": "",
+      "company_name": "MERCHANTS BANCORP INC/OH",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000723916",
+      "ticker": "",
+      "company_name": "MERIDIAN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000873398",
+      "ticker": "MERIT",
+      "company_name": "MERIT HOLDING CORP /GA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000065660",
+      "ticker": "",
+      "company_name": "MICHIGAN NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000357066",
+      "ticker": "MID",
+      "company_name": "MID AM INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000914138",
+      "ticker": "",
+      "company_name": "MIDDLEBURG FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000793548",
+      "ticker": "",
+      "company_name": "MIDLANTIC CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000745981",
+      "ticker": "",
+      "company_name": "MIDSOUTH BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001051379",
+      "ticker": "",
+      "company_name": "MIDWEST BANC HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001158678",
+      "ticker": "",
+      "company_name": "MILLENNIUM BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000889553",
+      "ticker": "",
+      "company_name": "MINDEN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001169483",
+      "ticker": "",
+      "company_name": "MISSION BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001129920",
+      "ticker": "",
+      "company_name": "MISSION COMMUNITY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001335730",
+      "ticker": "",
+      "company_name": "MIZUHO FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000891284",
+      "ticker": "MNB",
+      "company_name": "MNB BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001258548",
+      "ticker": "MNB",
+      "company_name": "MNB HOLDINGS CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001169769",
+      "ticker": "",
+      "company_name": "MONARCH COMMUNITY BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000908962",
+      "ticker": "",
+      "company_name": "MONOCACY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001200323",
+      "ticker": "",
+      "company_name": "MOUNTAIN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000898018",
+      "ticker": "",
+      "company_name": "MOUNTAIN BANK HOLDING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001177070",
+      "ticker": "",
+      "company_name": "MOUNTAIN NATIONAL BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001276939",
+      "ticker": "",
+      "company_name": "MOUNTAIN VALLEY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001135253",
+      "ticker": "",
+      "company_name": "MOUNTAINBANK FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001011659",
+      "ticker": "MUFG",
+      "company_name": "MUFG Americas Holdings Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001060303",
+      "ticker": "",
+      "company_name": "MURFREESBORO BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001074458",
+      "ticker": "",
+      "company_name": "Manasota Group, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001387632",
+      "ticker": "",
+      "company_name": "Manhattan Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001289701",
+      "ticker": "",
+      "company_name": "Mercantile Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001600125",
+      "ticker": "",
+      "company_name": "Meridian Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001750735",
+      "ticker": "",
+      "company_name": "Meridian Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700699",
+      "ticker": "NAPA",
+      "company_name": "NAPA NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001056669",
+      "ticker": "",
+      "company_name": "NATCOM BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000833029",
+      "ticker": "",
+      "company_name": "NATIONAL AUSTRALIA BANK LTD",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000705356",
+      "ticker": "",
+      "company_name": "NATIONAL BANCORP OF ALASKA INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000790362",
+      "ticker": "",
+      "company_name": "NATIONAL BANCSHARES CORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000069834",
+      "ticker": "",
+      "company_name": "NATIONAL BANCSHARES CORP OF TEXAS",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000912382",
+      "ticker": "",
+      "company_name": "NATIONAL BANK OF INDIANAPOLIS CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000796534",
+      "ticker": "",
+      "company_name": "NATIONAL BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000069968",
+      "ticker": "",
+      "company_name": "NATIONAL CITY BANCORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001116623",
+      "ticker": "",
+      "company_name": "NATIONAL CITY BANK /",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000069970",
+      "ticker": "",
+      "company_name": "NATIONAL CITY CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001163335",
+      "ticker": "",
+      "company_name": "NATIONAL CITY VEHICLE RECEIVABLES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000101844",
+      "ticker": "",
+      "company_name": "NATIONAL COMMERCE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700733",
+      "ticker": "",
+      "company_name": "NATIONAL PENN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001026220",
+      "ticker": "NB",
+      "company_name": "NB CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001026219",
+      "ticker": "NB",
+      "company_name": "NB CAPITAL TRUST II",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000790359",
+      "ticker": "NBT",
+      "company_name": "NBT BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000797838",
+      "ticker": "NEFFS",
+      "company_name": "NEFFS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001180933",
+      "ticker": "",
+      "company_name": "NEIGHBORS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001075945",
+      "ticker": "NEW",
+      "company_name": "NEW COMMERCE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001264755",
+      "ticker": "",
+      "company_name": "NEWALLIANCE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001157282",
+      "ticker": "",
+      "company_name": "NEWNAN COWETA BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001003084",
+      "ticker": "NHS",
+      "company_name": "NHS FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001174850",
+      "ticker": "",
+      "company_name": "NICOLET BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001135554",
+      "ticker": "NORTH",
+      "company_name": "NORTH BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000754440",
+      "ticker": "NORTH",
+      "company_name": "NORTH BAY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001102595",
+      "ticker": "NORTH",
+      "company_name": "NORTH BAY BANCORP/CA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000746253",
+      "ticker": "",
+      "company_name": "NORTHERN EMPIRE BANCSHARES",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001041753",
+      "ticker": "",
+      "company_name": "NORTHWAY FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000893467",
+      "ticker": "",
+      "company_name": "NORTHWEST BANCORPORATION INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001475841",
+      "ticker": "",
+      "company_name": "National Bank Holdings Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001609951",
+      "ticker": "",
+      "company_name": "National Commerce Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001587987",
+      "ticker": "",
+      "company_name": "NewtekOne, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001471265",
+      "ticker": "",
+      "company_name": "Northwest Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001004702",
+      "ticker": "",
+      "company_name": "OCEANFIRST FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001096654",
+      "ticker": "OHIO",
+      "company_name": "OHIO LEGACY CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001132338",
+      "ticker": "OIL",
+      "company_name": "OIL SERVICE HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000707179",
+      "ticker": "OLD",
+      "company_name": "OLD NATIONAL BANCORP /IN/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000740971",
+      "ticker": "OLD",
+      "company_name": "OLD POINT FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000705671",
+      "ticker": "OMEGA",
+      "company_name": "OMEGA FINANCIAL CORP /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000801443",
+      "ticker": "",
+      "company_name": "ORANGE NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001216128",
+      "ticker": "",
+      "company_name": "OREGON PACIFIC BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001398006",
+      "ticker": "",
+      "company_name": "Oak Ridge Financial Services, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001362599",
+      "ticker": "",
+      "company_name": "Omni Financial Services, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001288855",
+      "ticker": "",
+      "company_name": "OptimumBank Holdings, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001084717",
+      "ticker": "",
+      "company_name": "PACIFIC CONTINENTAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001109546",
+      "ticker": "",
+      "company_name": "PACIFIC MERCANTILE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001133862",
+      "ticker": "",
+      "company_name": "PACIFICA BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001102112",
+      "ticker": "",
+      "company_name": "PACWEST BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000805676",
+      "ticker": "PARK",
+      "company_name": "PARK NATIONAL CORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001163345",
+      "ticker": "",
+      "company_name": "PARTNERS TRUST FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000907471",
+      "ticker": "",
+      "company_name": "PATHWARD FINANCIAL, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001098146",
+      "ticker": "",
+      "company_name": "PATRIOT NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001037652",
+      "ticker": "",
+      "company_name": "PELICAN FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000768868",
+      "ticker": "PEMI",
+      "company_name": "PEMI BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000790988",
+      "ticker": "",
+      "company_name": "PENNROCK FINANCIAL SERVICES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001060244",
+      "ticker": "",
+      "company_name": "PEOPLES BANCORP INC/MD",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000885542",
+      "ticker": "",
+      "company_name": "PEOPLES BANCORPORATION INC /SC/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001100983",
+      "ticker": "",
+      "company_name": "PEOPLES COMMUNITY BANCORP INC /MD/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001056943",
+      "ticker": "",
+      "company_name": "PEOPLES FINANCIAL SERVICES CORP.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000718077",
+      "ticker": "",
+      "company_name": "PEOPLES FIRST CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001104901",
+      "ticker": "",
+      "company_name": "PEOPLES FIRST INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000827085",
+      "ticker": "",
+      "company_name": "PINNACLE BANC GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001031233",
+      "ticker": "",
+      "company_name": "PINNACLE BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001115055",
+      "ticker": "",
+      "company_name": "PINNACLE FINANCIAL PARTNERS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000760731",
+      "ticker": "",
+      "company_name": "PIONEER AMERICAN HOLDING CO CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001113026",
+      "ticker": "",
+      "company_name": "PIONEER BANKSHARES INC/VA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001008932",
+      "ticker": "PNC",
+      "company_name": "PNC BANK NATIONAL ASSOCIATION/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000713676",
+      "ticker": "PNC",
+      "company_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000825534",
+      "ticker": "",
+      "company_name": "PORTSMOUTH BANK SHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000797541",
+      "ticker": "",
+      "company_name": "PREMIER BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000854399",
+      "ticker": "",
+      "company_name": "PREMIER COMMUNITY BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000776848",
+      "ticker": "",
+      "company_name": "PREMIER NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001102287",
+      "ticker": "",
+      "company_name": "PREMIERWEST BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000707855",
+      "ticker": "",
+      "company_name": "PRINCETON NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001035713",
+      "ticker": "",
+      "company_name": "PROVIDIAN FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001235091",
+      "ticker": "PSB",
+      "company_name": "PSB GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001089624",
+      "ticker": "",
+      "company_name": "PULASKI BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001302502",
+      "ticker": "",
+      "company_name": "Pacific Coast National Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001358462",
+      "ticker": "",
+      "company_name": "Premier Commercial Bancorp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001630856",
+      "ticker": "",
+      "company_name": "Professional Holding Corp.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000811434",
+      "ticker": "",
+      "company_name": "RARITAN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000861461",
+      "ticker": "RBC",
+      "company_name": "RBC CENTURA BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000840007",
+      "ticker": "",
+      "company_name": "REDWOOD EMPIRE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000846979",
+      "ticker": "",
+      "company_name": "REGENT BANCSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001113671",
+      "ticker": "",
+      "company_name": "REGIONAL BANK HOLDERS SM TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001135513",
+      "ticker": "",
+      "company_name": "REGIONAL BANKSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036032",
+      "ticker": "",
+      "company_name": "REGIONS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001281761",
+      "ticker": "",
+      "company_name": "REGIONS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000202995",
+      "ticker": "",
+      "company_name": "REPUBLIC CORP /TX/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001065002",
+      "ticker": "",
+      "company_name": "RESOURCE BANKSHARES CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001076298",
+      "ticker": "",
+      "company_name": "RESOURCE CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001134636",
+      "ticker": "",
+      "company_name": "RETAIL HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000350847",
+      "ticker": "RIGGS",
+      "company_name": "RIGGS NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001067315",
+      "ticker": "",
+      "company_name": "RIVERWAY HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001160861",
+      "ticker": "",
+      "company_name": "RIVOLI BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001104681",
+      "ticker": "",
+      "company_name": "ROEBLING FINANCIAL CORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001397771",
+      "ticker": "",
+      "company_name": "Reliance Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001452899",
+      "ticker": "",
+      "company_name": "Riverview Financial Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001590799",
+      "ticker": "",
+      "company_name": "Riverview Financial Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001311131",
+      "ticker": "",
+      "company_name": "Rockville Financial Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000824410",
+      "ticker": "SANDY",
+      "company_name": "SANDY SPRING BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001099958",
+      "ticker": "",
+      "company_name": "SANTANDER BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000860519",
+      "ticker": "",
+      "company_name": "SAVANNAH BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001168643",
+      "ticker": "",
+      "company_name": "SEASONS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000803112",
+      "ticker": "",
+      "company_name": "SECOND BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001094635",
+      "ticker": "",
+      "company_name": "SECURITY FINANCIAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001110511",
+      "ticker": "",
+      "company_name": "SEMICONDUCTOR HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000868271",
+      "ticker": "",
+      "company_name": "SEVERN BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000823393",
+      "ticker": "",
+      "company_name": "SHAWMUT NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001263043",
+      "ticker": "",
+      "company_name": "SHINHAN FINANCIAL GROUP CO LTD",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001035092",
+      "ticker": "SHORE",
+      "company_name": "SHORE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000822697",
+      "ticker": "",
+      "company_name": "SHORELINE FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000009659",
+      "ticker": "",
+      "company_name": "SIGNET BANKING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000090498",
+      "ticker": "",
+      "company_name": "SIMMONS FIRST NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000855876",
+      "ticker": "SKY",
+      "company_name": "SKY FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001083286",
+      "ticker": "",
+      "company_name": "SKYLANDS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000884782",
+      "ticker": "",
+      "company_name": "SLIPPERY ROCK FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001038773",
+      "ticker": "",
+      "company_name": "SMARTFINANCIAL INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001293314",
+      "ticker": "SNB",
+      "company_name": "SNB Bancshares Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001108824",
+      "ticker": "",
+      "company_name": "SOMERSET TRUST HOLDING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001120427",
+      "ticker": "",
+      "company_name": "SONOMA VALLEY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001279756",
+      "ticker": "",
+      "company_name": "SOUTHCREST FINANCIAL GROUP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001171017",
+      "ticker": "",
+      "company_name": "SOUTHERN COMMUNITY BANCSHARES INC /GA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001137046",
+      "ticker": "",
+      "company_name": "SOUTHERN CONNECTICUT BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000849951",
+      "ticker": "",
+      "company_name": "SOUTHERN CRESCENT FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001090009",
+      "ticker": "",
+      "company_name": "SOUTHERN FIRST BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001056238",
+      "ticker": "",
+      "company_name": "SOUTHERN HERITAGE BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000092081",
+      "ticker": "",
+      "company_name": "SOUTHTRUST CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000844884",
+      "ticker": "",
+      "company_name": "SOUTHWEST BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001275873",
+      "ticker": "",
+      "company_name": "SOUTHWEST COMMUNITY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000092440",
+      "ticker": "",
+      "company_name": "SOUTHWEST NATIONAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000825042",
+      "ticker": "",
+      "company_name": "SPRING BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036678",
+      "ticker": "STAR",
+      "company_name": "STAR BANC CORP /OH/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000093451",
+      "ticker": "",
+      "company_name": "STERLING BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001070154",
+      "ticker": "",
+      "company_name": "STERLING BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000811671",
+      "ticker": "",
+      "company_name": "STERLING FINANCIAL CORP /PA/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001166362",
+      "ticker": "",
+      "company_name": "STURGIS BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000768177",
+      "ticker": "",
+      "company_name": "SUBURBAN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001009569",
+      "ticker": "",
+      "company_name": "SUCCESS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001060504",
+      "ticker": "",
+      "company_name": "SUCCESS CAPITAL TRUST I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000754673",
+      "ticker": "",
+      "company_name": "SUFFOLK BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000101320",
+      "ticker": "",
+      "company_name": "SUMMIT BANCORP/NJ/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000745344",
+      "ticker": "",
+      "company_name": "SUMMIT BANCSHARES INC /TX/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000856223",
+      "ticker": "",
+      "company_name": "SUMMIT FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001105880",
+      "ticker": "SUN",
+      "company_name": "SUN BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001072695",
+      "ticker": "",
+      "company_name": "SUNCOAST BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000750556",
+      "ticker": "",
+      "company_name": "SUNTRUST BANKS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001037959",
+      "ticker": "",
+      "company_name": "SUNTRUST CAPITAL I",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001055167",
+      "ticker": "",
+      "company_name": "SUNTRUST CAPITAL IV",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001162294",
+      "ticker": "",
+      "company_name": "SUNTRUST CAPITAL V",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000784932",
+      "ticker": "",
+      "company_name": "SURETY CAPITAL CORP /DE/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000700863",
+      "ticker": "",
+      "company_name": "SUSQUEHANNA BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000018349",
+      "ticker": "",
+      "company_name": "SYNOVUS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000811830",
+      "ticker": "",
+      "company_name": "Santander Holdings USA, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001357231",
+      "ticker": "",
+      "company_name": "Solera National Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001385090",
+      "ticker": "",
+      "company_name": "SouthEast Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001301093",
+      "ticker": "",
+      "company_name": "Southern Heritage Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001332626",
+      "ticker": "",
+      "company_name": "State National Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001473844",
+      "ticker": "",
+      "company_name": "Stellar Bancorp, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001272754",
+      "ticker": "T",
+      "company_name": "T Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001360683",
+      "ticker": "",
+      "company_name": "TALMER BANCORP, INC.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001048435",
+      "ticker": "",
+      "company_name": "TARPON COAST BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000814184",
+      "ticker": "TCF",
+      "company_name": "TCF FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000019612",
+      "ticker": "TCF",
+      "company_name": "TCF FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001082484",
+      "ticker": "TEAM",
+      "company_name": "TEAM FINANCIAL INC /KS",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000776618",
+      "ticker": "TEJAS",
+      "company_name": "TEJAS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001172678",
+      "ticker": "",
+      "company_name": "TEMECULA VALLEY BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001175158",
+      "ticker": "",
+      "company_name": "TENNESSEE VALLEY FINANCIAL HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001169238",
+      "ticker": "TEXAS",
+      "company_name": "TEXAS UNITED BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001551286",
+      "ticker": "TGR",
+      "company_name": "TGR Financial, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000944468",
+      "ticker": "",
+      "company_name": "THOMASVILLE BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001178409",
+      "ticker": "",
+      "company_name": "TIDELANDS BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000704469",
+      "ticker": "TRANS",
+      "company_name": "TRANS FINANCIAL INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001140249",
+      "ticker": "",
+      "company_name": "TRANSCOMMUNITY FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001010398",
+      "ticker": "TRI",
+      "company_name": "TRI STATE 1ST BANK INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000099771",
+      "ticker": "",
+      "company_name": "TRINITY CAPITAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001075046",
+      "ticker": "TROY",
+      "company_name": "TROY FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000092230",
+      "ticker": "",
+      "company_name": "TRUIST FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036146",
+      "ticker": "",
+      "company_name": "TRUSTMARK CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000859632",
+      "ticker": "",
+      "company_name": "TYSONS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001403008",
+      "ticker": "",
+      "company_name": "Touchmark Bancshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001114446",
+      "ticker": "UBS",
+      "company_name": "UBS AG",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001610520",
+      "ticker": "UBS",
+      "company_name": "UBS Group AG",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000101382",
+      "ticker": "UMB",
+      "company_name": "UMB FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000919871",
+      "ticker": "UNION",
+      "company_name": "UNION NATIONAL BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000874482",
+      "ticker": "UNION",
+      "company_name": "UNION NATIONAL FINANCIAL CORP / PA",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000100893",
+      "ticker": "UNION",
+      "company_name": "UNION PLANTERS CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001087456",
+      "ticker": "",
+      "company_name": "UNITED BANCSHARES INC/OH",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000916709",
+      "ticker": "",
+      "company_name": "UNITED COMMUNITY BANCSHARES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000831959",
+      "ticker": "",
+      "company_name": "UNITED NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001137547",
+      "ticker": "",
+      "company_name": "UNITED SECURITY BANCSHARES",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001054929",
+      "ticker": "UNITY",
+      "company_name": "UNITY HOLDINGS INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000746481",
+      "ticker": "",
+      "company_name": "UNIZAN FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000101542",
+      "ticker": "US",
+      "company_name": "US BANCORP /OR/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036104",
+      "ticker": "US",
+      "company_name": "US BANCORP \\DE\\",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001443217",
+      "ticker": "",
+      "company_name": "United Business Holdings, Inc",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000714310",
+      "ticker": "",
+      "company_name": "VALLEY NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000744471",
+      "ticker": "",
+      "company_name": "VENTURA COUNTY NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001051345",
+      "ticker": "VIB",
+      "company_name": "VIB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000715148",
+      "ticker": "",
+      "company_name": "VILLAGE BANCORP INC /CT/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000840256",
+      "ticker": "",
+      "company_name": "VINEYARD NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000862077",
+      "ticker": "",
+      "company_name": "VIRGINIA COMMONWEALTH FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000831979",
+      "ticker": "VISTA",
+      "company_name": "VISTA BANCORP INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001572334",
+      "ticker": "",
+      "company_name": "Virginia National Bankshares Corp",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000036995",
+      "ticker": "",
+      "company_name": "WACHOVIA CORP NEW",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000774203",
+      "ticker": "",
+      "company_name": "WACHOVIA CORP/ NC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000936528",
+      "ticker": "WAFD",
+      "company_name": "WAFD INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001089830",
+      "ticker": "",
+      "company_name": "WEBSTER CITY FEDERAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000801337",
+      "ticker": "",
+      "company_name": "WEBSTER FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000105598",
+      "ticker": "WELLS",
+      "company_name": "WELLS FARGO & CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000072971",
+      "ticker": "WELLS",
+      "company_name": "WELLS FARGO & COMPANY/MN",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000203596",
+      "ticker": "",
+      "company_name": "WESBANCO INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001157294",
+      "ticker": "WEST",
+      "company_name": "WEST METRO FINANCIAL SERVICES INC",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000351155",
+      "ticker": "WEST",
+      "company_name": "WEST ONE BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000311094",
+      "ticker": "",
+      "company_name": "WESTAMERICA BANCORPORATION",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001406251",
+      "ticker": "",
+      "company_name": "WESTERN LIBERTY BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001115568",
+      "ticker": "WGNB",
+      "company_name": "WGNB CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000106926",
+      "ticker": "",
+      "company_name": "WHITNEY HOLDING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000885275",
+      "ticker": "",
+      "company_name": "WILSON BANK HOLDING CO",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001124146",
+      "ticker": "",
+      "company_name": "WIRELESS HOLDRS TRUST",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000350572",
+      "ticker": "",
+      "company_name": "WORTHEN BANKING CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000828944",
+      "ticker": "WSFS",
+      "company_name": "WSFS FINANCIAL CORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001294171",
+      "ticker": "",
+      "company_name": "Woodforest Financial Group,Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0001143155",
+      "ticker": "",
+      "company_name": "Xenith Bankshares, Inc.",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000787849",
+      "ticker": "",
+      "company_name": "YARDVILLE NATIONAL BANCORP",
+      "sic_code": "6021",
+      "status": "download_failed"
+    },
+    {
+      "cik": "0000109380",
+      "ticker": "ZIONS",
+      "company_name": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",
+      "sic_code": "6021",
+      "status": "download_failed"
+    }
+  ]
+}
